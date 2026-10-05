@@ -1,0 +1,45 @@
+{
+  "platform": "gemini",
+  "question_id": 7,
+  "question": "Which corporate learning platform has the best AI-powered coaching and personalized learning?",
+  "collected_at": "2026-10-03T23:14:20",
+  "status": "ok",
+  "text": "When looking at corporate learning platforms that excel in AI-powered coaching and personalized learning, a few industry leaders stand out depending on whether your primary focus is leadership development, general skills training, or conversational/sales roleplaying.\n\nHere are the top options categorized by their strengths:\n\n1. Best for Hybrid Coaching (Human + AI) & Leadership: CoachHub & BetterUp\n\nCoachHub: Widely recognized for enterprise deployment, it combines a massive global network of certified human coaches with AIMY™, an AI coach designed to provide micro-learning support and keep momentum going between live coaching sessions.   \nCoachello AI\n\nBetterUp: The pioneer of digital executive and leadership coaching. It pairs employees with expert human coaches while leveraging \"Cai\" (its proprietary AI assistant) to deliver personalized nudges, actionable insights, and continuous support integrated directly into tools like Microsoft Teams and Slack.   \nCoachello AI\n\n2. Best for Enterprise Learning Management & Personalization: Docebo & Go1\n\nDocebo: Highly regarded for its robust AI engine that automates content curation, generates learning materials using generative AI, and deeply personalizes learning paths based on individual employee data and roles.   \nGartner\n\nGo1: Known as a comprehensive AI training ecosystem, Go1 aggregates thousands of up-to-date courses and uses built-in AI matching to instantly align employees with the right learning frameworks and role-based pathways.   \nGo1\n\n3. Best for AI Roleplay & Behavioral Practice: Coachello & Exec\n\nCoachello: An enterprise-grade coaching platform tailored for managing difficult conversations and behavioral change, featuring powerful AI roleplay capabilities.   \nCoachello AI\n\nExec: Focused heavily on voice-based AI roleplay simulations. It is ideal for sales and customer-facing teams looking to practice handling unpredictable objections and build real-world communication confidence under pressure.   \nExec\n+ 1\n\nWhat specific goals or areas (such as sales enablement, executive coaching, or general compliance and upskilling) is your organization trying to target?",
+  "bold": [
+    "AI-powered coaching and personalized learning",
+    "CoachHub & BetterUp",
+    "CoachHub:",
+    "AIMY™",
+    "BetterUp:",
+    "\"Cai\"",
+    "Docebo & Go1",
+    "Docebo:",
+    "Go1:",
+    "Coachello & Exec",
+    "Coachello:",
+    "Exec:"
+  ],
+  "sources": [
+    {
+      "name": "Coachello AI",
+      "title": "Coachello AI\nBest Online Coaching Platforms for Enterprise (2026) - Coachello AI\n“ Table_title: Online Coaching Platforms: Full Comparison Table Table_content: | Platform | Best for | AI features | | --- | --- | --- | | CoachHub | Global scal...”",
+      "url": "https://coachello.ai/blog/online-coaching-platform/"
+    },
+    {
+      "name": "Gartner",
+      "title": "Gartner\nBest Corporate Learning Technologies Reviews 2026 - Gartner\n“AI capabilities help customers automate manual tasks like enrollments, translations, and content categorization. Generative AI can create new course materials a...”",
+      "url": "https://www.gartner.com/reviews/market/corporate-learning-technologies"
+    },
+    {
+      "name": "Go1",
+      "title": "Go1\nBest AI Solutions for Corporate Training in 2026 (Ranked) | Go1\n“Compare the top 9 AI learning platforms for corporate training in 2026 and find the right one for you. * 1. Go1: The most comprehensive AI-powered learning solu...”",
+      "url": "https://www.go1.com/blog/best-ai-solutions"
+    },
+    {
+      "name": "Exec",
+      "title": "Exec\n6 Best AI Coaching Platforms for Corporate Training | Exec Learn\n“* 1. Exec: Voice-Based AI Roleplay for Conversation Competency. Exec addresses the learning-doing gap plaguing traditional training through voice-based AI role-...”",
+      "url": "https://www.exec.com/learn/ai-corporate-training"
+    }
+  ],
+  "screenshot": "gemini_q07.png"
+}

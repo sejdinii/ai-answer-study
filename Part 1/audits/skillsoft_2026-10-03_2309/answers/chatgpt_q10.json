@@ -1,0 +1,45 @@
+{
+  "platform": "chatgpt",
+  "question_id": 10,
+  "question": "Is Skillsoft Percipio worth it for corporate training?",
+  "collected_at": "2026-10-03T23:16:13",
+  "status": "ok",
+  "text": "Yes—Percipio can be worth it for corporate training, particularly for mid-sized and large organizations that want a broad, centrally managed learning library. But its value depends heavily on what you're trying to train and how actively your L&D team will use it.\n\nWhere Percipio is strong\n\nVery broad content library. Skillsoft reports more than 431,000 learning assets covering technology, leadership/business, compliance, AI, cloud, cybersecurity, software development, and more. It includes courses, books, labs, assessments, coaching, bootcamps, and instructor-led options. \nS\nSkillsoft Corporation\n\nGood enterprise administration. It supports learning assignments, compliance tracking, certifications, reporting, SSO, and integrations with HR/HCM systems and existing LMS/LXP environments. \nS\nSkillsoft Corporation\n\nStrong technology training. If your workforce needs ongoing training in cloud, cybersecurity, software development, data/AI, DevOps, etc., Percipio has a particularly large offering. \nS\nSkillsoft Corporation\n\nSkills-oriented approach. Skillsoft has been moving Percipio beyond a traditional course library toward skills mapping, benchmarking, proficiency measurement, personalized recommendations, and AI-assisted learning. \nS\nSkillsoft Corporation\n\nGenerally positive user feedback. G2 currently shows Percipio at 4.1/5 from 107 reviews. Reviewers frequently praise the breadth of content and ease of use. \nG\nG2\n+1\n\nWhere I'd be cautious\n\nThe main issue is that having a huge library isn't the same as having effective training.\n\nRecent G2 feedback mentions limitations around hands-on exercises, video controls/content consistency, administration, and account/support experiences. \nG\nG2\n\nI'd therefore be cautious if your goal is:\n\nhighly specialized training for your particular business\n\nintensive hands-on technical training\n\ninstructor-led development as the primary learning method\n\nhighly customized internal processes\n\ntraining where completion rates and real-world behavior change matter more than content availability\n\nPercipio can provide the infrastructure and content, but you'll still need good learning design, manager involvement, and measurement to turn it into an effective corporate training program.\n\nA practical way to judge the business case\n\nI'd evaluate it against these five questions:\n\nQuestion\tWhat to look for\nContent fit\tDo the courses actually cover your top 20–30 required skills?\nUsage\tWill employees realistically use the library, or will it become \"another corporate portal\"?\nTechnical depth\tAre labs/simulations sufficient for your technical roles?\nIntegration\tCan it fit cleanly into your existing LMS/HRIS/SSO environment?\nEconomics\tCost per active learner, not simply cost per licensed employee\n\nThe last one is particularly important. A seemingly reasonable enterprise license becomes expensive if only 20–30% of employees actually engage with it.\n\nBottom line\n\nPercipio makes the most sense when you need breadth, scale, enterprise administration, and continuous skills development. Its extensive technology/business library and newer skills/AI capabilities make it more than just a video-course repository. \nS\nSkillsoft Corporation\n\nI'd want to see a hands-on demo using your actual training requirements before signing a large contract, particularly because user feedback on administration and content depth is mixed. \nG\nG2\n\nIf you tell me your company size, employee profile (e.g. 500 office staff vs. 5,000 developers), and the main training areas, I can give you a more concrete Percipio vs. LinkedIn Learning vs. Udemy Business vs. Pluralsight comparison.",
+  "bold": [
+    "Percipio can be worth it for corporate training",
+    "Very broad content library.",
+    "Good enterprise administration.",
+    "Strong technology training.",
+    "Skills-oriented approach.",
+    "Generally positive user feedback.",
+    "4.1/5 from 107 reviews",
+    "having a huge library isn't the same as having effective training",
+    "Content fit",
+    "Usage",
+    "Technical depth",
+    "Integration",
+    "Economics",
+    "Percipio makes the most sense when you need breadth, scale, enterprise administration, and continuous skills development.",
+    "hands-on demo using your actual training requirements before signing a large contract",
+    "your company size, employee profile (e.g. 500 office staff vs. 5,000 developers), and the main training areas",
+    "vs. LinkedIn Learning vs. Udemy Business vs. Pluralsight"
+  ],
+  "sources": [
+    {
+      "name": "Skillsoft Corporation",
+      "title": "April 7, 2026 - 10-K: Annual report [Section 13 and 15(d), not S-K Item 405] | Skillsoft Corporation (SKIL)",
+      "url": "https://investor.skillsoft.com/sec-filings/all-sec-filings/content/0001437749-26-011602/skil20260131_10k.htm"
+    },
+    {
+      "name": "G2",
+      "title": "Skillsoft Products | Read 109 Reviews on G2",
+      "url": "https://www.g2.com/sellers/skillsoft"
+    },
+    {
+      "name": "G2",
+      "title": "Best Enterprise Skills Management Software in 2026 | G2",
+      "url": "https://www.g2.com/categories/skills-management/enterprise"
+    }
+  ],
+  "screenshot": "chatgpt_q10.png"
+}

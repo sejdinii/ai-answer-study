@@ -1,0 +1,81 @@
+{
+  "platform": "chatgpt",
+  "question_id": 4,
+  "question": "What's the best compliance training content provider for a global enterprise?",
+  "collected_at": "2026-10-03T23:49:06",
+  "status": "ok",
+  "text": "If by “content provider” you mean the company supplying the actual compliance courses—not necessarily the LMS—I’d put SAI360 at the top for a large multinational, with NAVEX a very close alternative.\n\nMy shortlist\nProvider\tBest for\tGlobal fit\tContent breadth\tMy take\nSAI360\tBroad global ethics & compliance\t⭐⭐⭐⭐⭐\t⭐⭐⭐⭐⭐\tBest overall\nNAVEX\tEthics, regulatory alignment & defensibility\t⭐⭐⭐⭐⭐\t⭐⭐⭐⭐⭐\tBest alternative\nSkillsoft\tCompliance + huge general learning library\t⭐⭐⭐⭐\t⭐⭐⭐⭐⭐\tBest if L&D wants one vendor\nLRN\tEthics, culture & values\t⭐⭐⭐⭐\t⭐⭐⭐⭐\tStrong for behavior/culture\nTraliant\tHighly engaging HR/workplace compliance\t⭐⭐⭐\t⭐⭐⭐⭐\tExcellent content, less global breadth\n\nWhy I lean SAI360: its current library has 400+ compliance courses, 70+ languages, role/region personalization, scenario-based learning, microlearning and customization. It also supports deployment through an existing LMS rather than forcing you onto its platform. \nS\nSAI360\n+1\n\nNAVEX is probably the strongest competitor. Its content covers core areas such as anti-bribery, harassment, privacy, conflicts and Code of Conduct, while allowing substantial customization and regional targeting. NAVEX says its content is reviewed by legal experts and aligned with international/regional requirements. \nN\nNavex\n+1\n\nSkillsoft is particularly compelling if you're looking for a broader enterprise learning relationship rather than a pure compliance-content specialist. Its compliance library covers 475+ risk topics in 26 languages, alongside its much larger professional-skills catalog. \nS\nskillsoftcompliance.eu\n\nIf I were running the RFP\n\nI'd invite SAI360, NAVEX, Skillsoft and LRN and score them heavily on:\n\nWhy I lean SAI360: its current library has 400+ compliance courses, 70+ languages, role/region personalization, scenario-based learning, microlearning and customization. It also supports deployment through an existing LMS rather than forcing you onto its platform. \nS\nsai360.com\n+1\n\nNAVEX is probably the strongest competitor. Its content covers core areas such as anti-bribery, harassment, privacy, conflicts and Code of Conduct, while allowing substantial customization and regional targeting. NAVEX says its content is reviewed by legal experts and aligned with international/regional requirements. \nN\nnavex.com\n+1\n\nJurisdictional accuracy — US + EU + APAC + LATAM, not just translated US content.\n\nLocalization — genuine cultural/legal localization versus machine translation.\n\nContent update process — especially sanctions, anti-bribery, AI, privacy, harassment and employment law.\n\nScenario quality — whether employees actually have to exercise judgment rather than click through slides.\n\nLMS interoperability — SCORM/cmi5/xAPI and clean integration with your existing learning stack.\n\nCustomization — ability to incorporate your Code of Conduct, policies and reporting channels.\n\nEvidence for regulators/auditors — completion, attestations, version history and jurisdiction-specific assignments.\n\nLanguages and accessibility — including subtitles, narration, WCAG/VPAT support.\n\nContent governance — named legal SMEs, review cadence and documented change management.\n\nCommercial model — especially whether global employees, contractors and contingent workers are priced sensibly.\n\nOne important distinction: don't let vendors win the RFP by showing the prettiest demo. For a global enterprise, the difficult part is maintaining legally and culturally appropriate content across dozens of jurisdictions while keeping it engaging.\n\nBottom line:\n\nBest overall global compliance-content specialist: SAI360\n\nBest for mature ethics/compliance programs and regulatory defensibility: NAVEX\n\nBest if you want compliance bundled with a massive enterprise learning library: Skillsoft\n\nBest for culture/ethics transformation: LRN\n\nBest for engaging HR/workplace compliance: Traliant\n\nIf you tell me employee count, countries/regions, existing LMS (e.g. Workday Learning, Cornerstone, SAP SuccessFactors), and the top 5 compliance topics, I can narrow this to a 2–3 vendor recommendation and an RFP scoring matrix.",
+  "bold": [
+    "“content provider”",
+    "SAI360",
+    "NAVEX",
+    "SAI360",
+    "Best overall",
+    "NAVEX",
+    "Best alternative",
+    "Skillsoft",
+    "LRN",
+    "Traliant",
+    "Why I lean SAI360:",
+    "400+ compliance courses, 70+ languages",
+    "NAVEX is probably the strongest competitor.",
+    "Skillsoft",
+    "475+ risk topics in 26 languages",
+    "SAI360, NAVEX, Skillsoft and LRN",
+    "Why I lean SAI360:",
+    "400+ compliance courses, 70+ languages",
+    "NAVEX is probably the strongest competitor.",
+    "Jurisdictional accuracy",
+    "Localization",
+    "Content update process",
+    "Scenario quality",
+    "LMS interoperability",
+    "Customization",
+    "Evidence for regulators/auditors",
+    "Languages and accessibility",
+    "Content governance",
+    "Commercial model",
+    "don't let vendors win the RFP by showing the prettiest demo.",
+    "Bottom line:",
+    "Best overall global compliance-content specialist:",
+    "SAI360",
+    "Best for mature ethics/compliance programs and regulatory defensibility:",
+    "NAVEX",
+    "Best if you want compliance bundled with a massive enterprise learning library:",
+    "Skillsoft",
+    "Best for culture/ethics transformation:",
+    "LRN",
+    "Best for engaging HR/workplace compliance:",
+    "Traliant",
+    "employee count, countries/regions, existing LMS (e.g. Workday Learning, Cornerstone, SAP SuccessFactors), and the top 5 compliance topics",
+    "2–3 vendor recommendation and an RFP scoring matrix"
+  ],
+  "sources": [
+    {
+      "name": "SAI360",
+      "title": "Training Catalog - SAI360",
+      "url": "https://www.sai360.com/solutions/ethics-and-compliance-learning/training-catalog"
+    },
+    {
+      "name": "SAI360",
+      "title": "Ethics and Compliance Training Software Solutions and Courses",
+      "url": "https://www.sai360.com/solutions/ethics-and-compliance-learning"
+    },
+    {
+      "name": "Navex",
+      "title": "Online Ethics & Compliance Training for Employees | NAVEX",
+      "url": "https://www.navex.com/en-us/platform/online-ethics-compliance-training/"
+    },
+    {
+      "name": "Navex",
+      "title": "Risk and Compliance by Course Languages | NAVEX",
+      "url": "https://www.navex.com/en-us/products/online-ethics-compliance-training/learning-courses/language/"
+    },
+    {
+      "name": "skillsoftcompliance.eu",
+      "title": "The Global Leader in compliance-based risk mitigation and safety training | Skillsoft",
+      "url": "https://www.skillsoftcompliance.eu/about.asp"
+    }
+  ],
+  "screenshot": "chatgpt_q04.png"
+}

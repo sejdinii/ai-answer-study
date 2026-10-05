@@ -1,0 +1,54 @@
+{
+  "platform": "chatgpt",
+  "question_id": 8,
+  "question": "How can I upskill managers across my company without building courses in-house?",
+  "collected_at": "2026-10-03T23:52:16",
+  "status": "ok",
+  "text": "Yes. You can build a strong manager-development system without becoming a course-production company. The trick is to outsource the content and facilitation, while keeping ownership of the manager standards, practice, and accountability internally.\n\nA practical model\n\nI’d use a “buy + curate + practice” model:\n\nDefine your manager expectations internally\n\nWhat does a good manager at your company actually do?\n\nE.g. run effective 1:1s, give feedback, delegate, manage performance, hire well, handle conflict, develop people.\n\nKeep this to ~6–10 core capabilities.\n\nBuy the learning content\nRather than creating videos and courses, license an existing library or use an external provider.\n\nOptions range from broad learning libraries to specialist manager-development platforms. In the DACH market, for example, Haufe Akademie offers thousands of courses plus live, blended and in-house formats; Masterplan offers a large multilingual digital library. \nK\nKurslotse\n+1\n\nUse cohorts for the important stuff\nDon't rely on \"watch these 12 videos.\" For critical management behaviors, put managers into 6–12 week cohorts with live facilitators, peer discussion and assignments.\n\nPlatforms such as Growthspace, for example, offer small expert-led cohorts focused on specific skills rather than generic leadership curricula. \nG\nGrowthspace\n\nAdd coaching where it matters\nGive senior or struggling managers access to 1:1 coaching rather than trying to give everyone the same experience. Current enterprise offerings include BetterUp, CoachHub, Torch, Growthspace and others, with different mixes of coaching, cohorts and mentoring. \nB\nBoon\n\nMake the manager's actual job the classroom\n\nEvery module should end with something like:\n\n\"Have the performance conversation you've been avoiding this week.\"\n\nThen have the manager reflect with their cohort, coach or manager.\n\nMeasure behavior, not course completion\n\nInstead of reporting \"92% completed Manager Fundamentals,\" measure things such as:\n\nQuality of 1:1s\n\nEmployee feedback on manager effectiveness\n\nPerformance-management quality\n\nInternal mobility/development conversations\n\nManager confidence before/after\n\nRetention or engagement trends\n\nWhat I'd outsource vs. keep internal\nKeep internal\tBuy externally\nYour manager competency model\tCourse content\nYour leadership principles\tFacilitators\nCompany-specific policies\tCoaching\nBusiness scenarios/context\tAssessments\nExpectations of managers\tLearning platform\nManager accountability\tSpecialist expertise\n\nThis distinction is important. You don't need to own the content; you need to own the definition of \"good management\" at your company.\n\nThree good approaches\n1. Lowest effort: learning library\n\nGive managers access to a strong external catalogue and curate a handful of recommended learning paths.\n\nGood if you have hundreds/thousands of managers and relatively limited L&D capacity.\n\nFor example, PPG describes using an internal hub that connects employees to external resources such as LinkedIn Learning rather than producing everything internally.\n\n2. Best balance: external manager academy\n\nBuy an existing manager curriculum and run it as a company-wide cohort program.\n\nFor example:\n\n12 weeks\n\nWeek 1 — Role of the manager\n\nWeek 2 — Setting expectations\n\nWeek 3 — 1:1s\n\nWeek 4 — Feedback\n\nWeek 5 — Delegation\n\nWeek 6 — Coaching\n\nWeek 7 — Motivation\n\nWeek 8 — Conflict\n\nWeek 9 — Performance management\n\nWeek 10 — Difficult conversations\n\nWeek 11 — Developing people\n\nWeek 12 — Leading through change\n\nThe provider supplies the content and facilitator. Your L&D team supplies the context and keeps managers accountable.\n\nThis would be my default recommendation for most companies.\n\n3. Scalable/modern: content + AI practice + coaching\n\nFor a very large manager population, combine an external content library with an AI practice/coaching layer and reserve human coaching for higher-need managers.\n\nThere are now platforms specifically designed to put manager practice into tools such as Slack or Teams rather than requiring managers to visit another LMS. \nB\nblify.co\n\nOne thing I'd avoid\n\nDon't buy a giant leadership catalogue and call it a manager-development strategy.\n\nYou can end up with 10,000 courses and no consistent answer to:\n\n\"What should every manager in our company be able to do?\"\n\nInstead, create a one-page manager capability framework, then map external content onto it.\n\nThat gives you the economics of outsourcing without outsourcing your management philosophy.\n\nIf you tell me roughly how many managers you have, their locations/languages, and your approximate budget per manager/year, I can shortlist 5–7 external providers and show you what I'd buy for a company your size.",
+  "bold": [
+    "without becoming a course-production company",
+    "“buy + curate + practice”",
+    "Define your manager expectations internally",
+    "Buy the learning content",
+    "Use cohorts for the important stuff",
+    "Add coaching where it matters",
+    "Make the manager's actual job the classroom",
+    "Measure behavior, not course completion",
+    "You don't need to own the content; you need to own the definition of \"good management\" at your company.",
+    "hundreds/thousands of managers",
+    "12 weeks",
+    "This would be my default recommendation for most companies.",
+    "Don't buy a giant leadership catalogue and call it a manager-development strategy.",
+    "one-page manager capability framework",
+    "without outsourcing your management philosophy",
+    "how many managers you have, their locations/languages, and your approximate budget per manager/year"
+  ],
+  "sources": [
+    {
+      "name": "Kurslotse",
+      "title": "E-Learning for companies: Top providers & LMS 2026",
+      "url": "https://www.kurslotse.de/en/e-learning-fuer-unternehmen-das-sind-die-top-anbieter/"
+    },
+    {
+      "name": "Haufe Akademie",
+      "title": "Corporate Learning | Weiterbildung im Unternehmen",
+      "url": "https://corporatelearning-reverse.haufe-akademie.de/"
+    },
+    {
+      "name": "Growthspace",
+      "title": "8 Best Group Coaching and Cohort Platforms for Corporate L&D in 2026 [By Delivery Method]",
+      "url": "https://www.growthspace.com/blog/best-group-coaching-platforms"
+    },
+    {
+      "name": "Boon",
+      "title": "Best Coaching Platforms for Managers: Usage vs Seats | Boon",
+      "url": "https://www.boon-health.com/learn/resources/best-coaching-platforms-for-managers"
+    },
+    {
+      "name": "blify.co",
+      "title": "AI Coaching for Every Manager, Tailored to Your Company | Blify",
+      "url": "https://www.blify.co/solutions/leadership-development"
+    }
+  ],
+  "screenshot": "chatgpt_q08.png"
+}

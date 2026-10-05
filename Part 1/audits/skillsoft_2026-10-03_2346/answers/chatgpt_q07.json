@@ -1,0 +1,65 @@
+{
+  "platform": "chatgpt",
+  "question_id": 7,
+  "question": "Which corporate learning platform has the best AI-powered coaching and personalized learning?",
+  "collected_at": "2026-10-03T23:51:30",
+  "status": "ok",
+  "text": "If AI-powered coaching + genuinely personalized learning are your top criteria, my current pick is Degreed, particularly its Maestro AI layer.\n\nMy ranking\n\nDegreed — best overall for AI coaching + personalization\n\nMaestro provides 24/7 AI coaching, roleplays, skill reviews, and real-time feedback.\n\nPersonalization is based on an employee's role, skills, goals, and learning history, rather than simply recommending courses.\n\nIt can automatically curate learning pathways and create custom AI coaches/roleplays for specific organizational needs. \nD\nDegreed\n+1\n\nParticularly strong if your goal is skills development and behavior change, rather than simply delivering courses.\n\nDocebo — best if you need a full enterprise LMS\n\nStrong AI personalization, skills-gap identification, AI-generated content, virtual coaching and roleplay.\n\nBetter fit than Degreed if you need a comprehensive system for employees + customers + partners, complex administration, multilingual delivery, and formal LMS functionality. \nD\nDocebo\n+1\n\nCornerstone — best for large HR/talent ecosystems\n\nStrong AI-driven recommendations and personalization tied to skills, career development, performance and mobility.\n\nAttractive for organizations already heavily invested in Cornerstone's broader talent-management ecosystem. \nC\ncornerstoneondemand.com\n+1\n\nThe key distinction\n\nI'd frame it this way:\n\nIf your priority is...\tBest choice\nBest AI coaching experience\t🥇 Degreed\nDeepest personalized skill development\t🥇 Degreed\nFull-featured enterprise LMS + AI\tDocebo\nLMS + performance/talent management\tCornerstone\nAI roleplay and practice\tDegreed / Docebo\nGlobal, complex enterprise administration\tDocebo / Cornerstone\n\nWhy I lean Degreed: it isn't just putting a chatbot on top of an LMS. Maestro connects coaching, roleplay, skill assessment, learning pathways and employee skill history into one personalized experience. That's unusually close to an AI learning coach that understands the learner, rather than an AI course recommender. \nD\nDegreed\n\nDegreed Maestro\n\nIf you're evaluating vendors for your company, I can also give you a 2026 comparison of Degreed vs Docebo vs Cornerstone vs Sana vs 360Learning, including AI coaching quality, personalization, content generation, integrations, enterprise readiness, and likely pricing.",
+  "bold": [
+    "AI-powered coaching + genuinely personalized learning",
+    "Degreed",
+    "Maestro",
+    "Degreed — best overall for AI coaching + personalization",
+    "24/7 AI coaching",
+    "role, skills, goals, and learning history",
+    "skills development and behavior change",
+    "Docebo — best if you need a full enterprise LMS",
+    "employees + customers + partners",
+    "Cornerstone — best for large HR/talent ecosystems",
+    "Best AI coaching experience",
+    "Degreed",
+    "Deepest personalized skill development",
+    "Degreed",
+    "Docebo",
+    "Cornerstone",
+    "Degreed / Docebo",
+    "Docebo / Cornerstone",
+    "Why I lean Degreed:",
+    "AI learning coach that understands the learner",
+    "evaluating vendors for your company",
+    "2026 comparison of Degreed vs Docebo vs Cornerstone vs Sana vs 360Learning"
+  ],
+  "sources": [
+    {
+      "name": "Degreed",
+      "title": "Degreed Maestro | AI-powered learning & coaching platform",
+      "url": "https://degreed.com/experience/artificial-intelligence/"
+    },
+    {
+      "name": "Degreed",
+      "title": "Degreed Maestro | KI-gestützte Lern- und Coaching-Plattform",
+      "url": "https://degreed.com/experience/de/kuenstliche-intelligenz/"
+    },
+    {
+      "name": "Docebo",
+      "title": "AI-powered Enterprise LMS Platform | Docebo",
+      "url": "https://www.docebo.com/solutions/enterprise-learning-management/"
+    },
+    {
+      "name": "Docebo",
+      "title": "AI-first LMS für Lernen & Kurserstellung & Skills | Docebo",
+      "url": "https://www.docebo.com/de/"
+    },
+    {
+      "name": "cornerstoneondemand.com",
+      "title": "Content: Personalize Learning with AI | Cornerstone",
+      "url": "https://www.cornerstoneondemand.com/platform/content-suite/"
+    },
+    {
+      "name": "cornerstoneondemand.com",
+      "title": "AI for Personalized Learning: Build Workforce Readiness at Scale | Cornerstone",
+      "url": "https://www.cornerstoneondemand.com/resources/article/ai-for-personalized-learning/"
+    }
+  ],
+  "screenshot": "chatgpt_q07.png"
+}

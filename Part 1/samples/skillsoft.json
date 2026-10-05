@@ -1,0 +1,30 @@
+{
+  "company": [
+    "Skillsoft",
+    "Percipio"
+  ],
+  "questions": [
+    "What's the best online learning platform for corporate employee training?",
+    "What's the best e-learning content library for leadership development programs?",
+    "Which platform has the best soft skills training for employees, like communication and emotional intelligence?",
+    "What's the best compliance training content provider for a global enterprise?",
+    "What are the best alternatives to LinkedIn Learning for enterprise upskilling?",
+    "Udemy Business vs Coursera for Business: which is better for a 2,000-employee company?",
+    "Which corporate learning platform has the best AI-powered coaching and personalized learning?",
+    "How can I upskill managers across my company without building courses in-house?",
+    "What's the best off-the-shelf training content library that integrates with Workday or SAP SuccessFactors?",
+    "Is Skillsoft Percipio worth it for corporate training?"
+  ],
+  "competitors": [
+    "LinkedIn Learning",
+    "Udemy Business",
+    "Coursera for Business",
+    "Go1",
+    "edX"
+  ],
+  "ignore": [
+    "Action Learning Sets",
+    "Cross-Departmental Job Shadowing",
+    "Economics"
+  ]
+}

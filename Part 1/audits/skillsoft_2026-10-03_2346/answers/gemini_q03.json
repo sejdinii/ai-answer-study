@@ -1,0 +1,53 @@
+{
+  "platform": "gemini",
+  "question_id": 3,
+  "question": "Which platform has the best soft skills training for employees, like communication and emotional intelligence?",
+  "collected_at": "2026-10-03T23:48:36",
+  "status": "ok",
+  "text": "When looking for the best platform for soft skills training (such as communication and emotional intelligence), the \"best\" choice depends heavily on whether your company wants video-based course libraries, AI-driven roleplay simulations, or live human coaching.\n\nThe top enterprise platforms available for workplace soft skills training are categorized below by their primary strengths:\n\n1. Best for Broad Course Libraries & Professional Integration\n\nLinkedIn Learning:\n\nBest for: Comprehensive video courses taught by industry experts.\n\nWhy it shines: It features an extensive library dedicated to interpersonal communication, conflict resolution, and emotional intelligence. Because it links directly with employee LinkedIn profiles, tracking professional development and adding certificates is seamless.   \nLinkedIn Business Solutions\n\nCoursera for Business:\n\nBest for: University-backed and corporate-certified specializations.\n\nWhy it shines: Offers structured learning paths created by top institutions (like UC Davis and the University of Pennsylvania) and major companies like IBM, focusing deeply on workplace empathy, active listening, and leadership.\n\n2. Best for AI-Powered Practice & Real-Time Feedback\n\nYoodli:\n\nBest for: Communication, public speaking, and presentation skills.   \nAIToolsBakery\n\nWhy it shines: Employees can practice speaking, meetings, or difficult presentations and receive private, instant AI feedback on their pacing, filler words, clarity, and tone.\n\nSecond Nature:\n\nBest for: Conversational roleplay (sales, customer service, and difficult peer discussions).   \nCareertrainer.ai\n\nWhy it shines: Instead of just watching a video, employees talk out loud to an AI simulation that acts like a customer or coworker, allowing them to practice handling pushback and emotional tone in real-time.   \nCareertrainer.ai\n\n3. Best for Leadership & Executive Coaching\n\nBetterUp:\n\nBest for: Scalable, personalized human coaching backed by behavioral science.   \nDisco Learning Platform\n\nWhy it shines: It pairs employees or leaders with certified professional coaches to work on mental fitness, emotional intelligence, resilience, and personal growth plans.   \nDisco Learning Platform\n\nSummary Recommendation\n\nChoose LinkedIn Learning or Coursera if your goal is to give employees a vast library of expert-led courses they can explore at their own pace.\n\nChoose Yoodli or Second Nature if you want interactive, hands-on practice where employees actively talk and receive analytical feedback to improve their communication habits.   \nCareertrainer.ai\n\nWhat is the primary format your team prefers for learning—self-paced video courses or interactive role-playing?",
+  "bold": [
+    "video-based course libraries",
+    "AI-driven roleplay simulations",
+    "live human coaching",
+    "LinkedIn Learning:",
+    "Best for:",
+    "Why it shines:",
+    "Coursera for Business:",
+    "Best for:",
+    "Why it shines:",
+    "Yoodli:",
+    "Best for:",
+    "Why it shines:",
+    "Second Nature:",
+    "Best for:",
+    "Why it shines:",
+    "BetterUp:",
+    "Best for:",
+    "Why it shines:",
+    "LinkedIn Learning or Coursera",
+    "Yoodli or Second Nature"
+  ],
+  "sources": [
+    {
+      "name": "LinkedIn Business Solutions",
+      "title": "LinkedIn Business Solutions\nSoft Skills & Professional Development Training | Linkedin Learning\n“Executive & Career Coach; Author. Learn more. * Dave Crenshaw. Author and leadership coach who has been featured in Time, Fast Company, and USA Today. Learn mor...”",
+      "url": "https://business.linkedin.com/learn/content-library/online-business-courses/soft-skills"
+    },
+    {
+      "name": "AIToolsBakery",
+      "title": "AIToolsBakery\nBest AI Soft Skills Training Tools (2026): Top 5 Picks\n“Best AI Soft Skills Training Tools 2026 * Yoodli: best for communication and presentation skills. * Second Nature: best for sales and customer-facing soft skill...”",
+      "url": "https://aitoolsbakery.com/blog/best-ai-soft-skills-training-tools/"
+    },
+    {
+      "name": "Careertrainer.ai",
+      "title": "Careertrainer.ai\nTop 10 Best Soft Skills Training of 2026 (2026) | Careertrainer.ai\n“Key strength. Strong focus on AI-powered feedback for presentations, meetings, and conversation practice. Best for: Teams that want to train presentation and co...”",
+      "url": "https://careertrainer.ai/en/best/soft-skills-training/"
+    },
+    {
+      "name": "Disco Learning Platform",
+      "title": "Disco Learning Platform\nBest AI Tools for Soft Skills Training in 2026 - Disco Learning Platform\n“ BetterUp is an AI-powered coaching platform that offers personalized growth plans and mental fitness exercises. It uses AI and sophisticated algorithms to help...”",
+      "url": "https://www.disco.co/blog/ai-tools-for-soft-skills-training"
+    }
+  ],
+  "screenshot": "gemini_q03.png"
+}

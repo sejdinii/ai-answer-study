@@ -1,0 +1,45 @@
+{
+  "platform": "gemini",
+  "question_id": 10,
+  "question": "Is Skillsoft Percipio worth it for corporate training?",
+  "collected_at": "2026-10-03T23:16:33",
+  "status": "ok",
+  "text": "Whether Skillsoft Percipio is worth it for corporate training depends heavily on the size of your organization, your learning and development (L&D) goals, and your budget. It is one of the more established players in enterprise learning, offering an extensive library of content, compliance training, and tech-focused curricula.   \nG2\n\nAn analysis of its strengths, drawbacks, and overall value can help determine if it fits your organization:\n\nThe Pros (Why it’s worth it)\n\nMassive Content Library: Skillsoft offers thousands of courses covering leadership development, compliance, business skills, and heavy technical/IT topics (such as cloud computing, cybersecurity, and software development).\n\nMultiple Formats (Perpetual Micro-learning): Content isn't just restricted to long-form videos. It includes audiobooks, book summaries, hands-on practice labs, and test simulators, catering to different learning styles.   \nG2\n\nStructured Learning Paths: Percipio uses \"Channels\" and \"Journeys\" that guide employees through structured roadmaps to achieve specific skill goals or professional certifications.\n\nModern, Intuitive Interface: Compared to older legacy learning management systems (LMS), Percipio features a clean, Netflix-style user interface that makes finding and resuming content relatively seamless for end-users.   \nG2\n\nRobust Tracking and Analytics: For administrators, it provides detailed reporting to track compliance completion rates, user engagement, and skill gap benchmarks.   \nTrustRadius\n\nThe Cons (Where it falls short)\n\nCost & Scale: Skillsoft is typically built and priced for mid-to-large enterprises. For small businesses or startups, the pricing structure may be cost-prohibitive relative to the actual usage.\n\nVariable Content Quality: While core leadership and compliance courses are polished, some of the older technical courses or third-party additions can feel dry, text-heavy, or less engaging than competitors like Coursera or Udemy Business.\n\nAdministrative Complexity: Setting up custom user groups, tracking granular metrics, and integrating Percipio with an existing internal HRIS or LMS can sometimes require heavy IT/admin lifting.\n\nNot Always an All-in-One LMS: While Percipio functions well as a Learning Experience Platform (LXP), some companies find its administrative features limiting if they want it to act as their sole primary LMS for handling entirely custom, internal company onboarding.   \nSoftware Advice\n\nThe Verdict\n\nIt is worth it if: You are a medium to large enterprise looking for a secure, scalable solution to handle mandatory compliance training, broad professional development, and IT upskilling all in one place. It saves time because you don't have to build content from scratch.   \nSoftware Advice\n\nIt may NOT be worth it if: You are a small team with a tight budget, or if your primary focus is hyper-specific, bleeding-edge tech skills where platforms like Coursera, Pluralsight, or specialized bootcamp providers might offer deeper engagement.\n\nAre you looking at Percipio for a specific team size or training goal (like compliance, leadership, or tech skills)?",
+  "bold": [
+    "Skillsoft Percipio",
+    "The Pros (Why it’s worth it)",
+    "Massive Content Library:",
+    "Multiple Formats (Perpetual Micro-learning):",
+    "Structured Learning Paths:",
+    "Modern, Intuitive Interface:",
+    "Robust Tracking and Analytics:",
+    "The Cons (Where it falls short)",
+    "Cost & Scale:",
+    "Variable Content Quality:",
+    "Administrative Complexity:",
+    "Not Always an All-in-One LMS:",
+    "The Verdict",
+    "It is worth it if:",
+    "medium to large enterprise",
+    "It may NOT be worth it if:",
+    "small team"
+  ],
+  "sources": [
+    {
+      "name": "G2",
+      "title": "G2\nSkillsoft Percipio Platform Pros and Cons | User Likes & Dislikes - G2\n“Quick AI Summary Based on G2 Reviews * Users value the extensive and diverse content offered by Skillsoft Percipio, enhancing their learning experience signific...”",
+      "url": "https://www.g2.com/products/skillsoft-percipio-platform/reviews?qs=pros-and-cons"
+    },
+    {
+      "name": "TrustRadius",
+      "title": "TrustRadius\nSkillsoft Percipio Reviews from Real Users - TrustRadius\n“ Pros * Good capability to host all kinds of training types (PDF, Powerpoint, captivate-created training content, etc.) * Gives an easy way for me as an adminis...”",
+      "url": "https://www.trustradius.com/products/skillsoft-percipio/reviews"
+    },
+    {
+      "name": "Software Advice",
+      "title": "Software Advice\nSkillsoft Reviews, Pros and Cons - 2026 Software Advice\n“ Reviewed December 2024. Comprehensive learning platform with great resources. 5. My overall experience with Skillsoft has been positive,with valuable learning ...”",
+      "url": "https://www.softwareadvice.com/product/4970-Skillsoft/reviews/"
+    }
+  ],
+  "screenshot": "gemini_q10.png"
+}

@@ -1,0 +1,65 @@
+{
+  "platform": "chatgpt",
+  "question_id": 2,
+  "question": "What's the best e-learning content library for leadership development programs?",
+  "collected_at": "2026-10-03T23:10:39",
+  "status": "ok",
+  "text": "If you mean a ready-made content library that you can plug into a corporate leadership-development program, there isn't one universally “best” choice—the right fit depends on whether you prioritize breadth, leadership depth, learning experience, localization, or LMS integration.\n\nHere’s how I’d shortlist the major options:\n\nLibrary\tParticularly strong for\tLeadership content\tBreadth\tBest fit\nLinkedIn Learning\tBroad leadership + business skills\tVery broad\t★★★★★\tOrganizations wanting one library for many employee populations\nSkillsoft Percipio\tStructured leadership development\tVery deep\t★★★★☆\tFormal leadership academies and manager programs\nGoodHabitz\tPractical, accessible soft-skills learning\tStrong\t★★★★☆\tEuropean organizations and high-volume employee development\nMy take\n\nFor a general-purpose corporate leadership program, I'd start with LinkedIn Learning. Its current library has more than 26,000 courses overall, with 3,900+ experts, 20+ subtitle languages and 1,300+ curated learning paths. Its leadership catalogue covers areas such as leading teams, executive presence, strategic thinking, feedback, coaching, change and inclusive leadership. \nL\nLinkedIn\n+1\n\nFor a dedicated leadership academy, I'd investigate Skillsoft Percipio very seriously. Its experience is more explicitly organized around structured development: Aspire Journeys, leadership-specific journeys, live learning, simulations, books/audiobooks and skill benchmarking are all part of the ecosystem. \nD\ndocumentation.skillsoft.com\n\nFor a European workforce where accessibility, localization and practical soft skills matter, GoodHabitz is particularly interesting. Its library is available in 20+ languages and includes leadership, teamwork, wellbeing and digital skills, with new content added monthly. \nG\ngoodhabitz.com\n+1\n\nOne important distinction: a content library isn't necessarily a leadership-development program. For a serious program, I'd look for a combination of:\n\nFor a general-purpose corporate leadership program, I'd start with LinkedIn Learning. Its current library has more than 26,000 courses overall, with 3,900+ experts, 20+ subtitle languages and 1,300+ curated learning paths. Its leadership catalogue covers areas such as leading teams, executive presence, strategic thinking, feedback, coaching, change and inclusive leadership. \nL\nlinkedin.com\n+1\n\nFor a dedicated leadership academy, I'd investigate Skillsoft Percipio very seriously. Its experience is more explicitly organized around structured development: Aspire Journeys, leadership-specific journeys, live learning, simulations, books/audiobooks and skill benchmarking are all part of the ecosystem. \nD\ndocumentation.skillsoft.com\n\nleadership curriculum/framework\n\nassessments and self-reflection\n\nmanager-specific practice\n\nsimulations or scenario-based learning\n\ncohort/peer learning\n\ncoaching or live facilitation\n\nlearning paths rather than just a course catalogue\n\nLMS/LXP integration and analytics\n\nIf you tell me your company size, target audience (first-time managers / mid-level / executives), geography, LMS, and approximate budget per learner, I can compare LinkedIn Learning vs Skillsoft vs GoodHabitz vs other specialist libraries against those requirements.",
+  "bold": [
+    "ready-made content library that you can plug into a corporate leadership-development program",
+    "LinkedIn Learning",
+    "Skillsoft Percipio",
+    "GoodHabitz",
+    "For a general-purpose corporate leadership program, I'd start with LinkedIn Learning.",
+    "For a dedicated leadership academy, I'd investigate Skillsoft Percipio very seriously.",
+    "For a European workforce where accessibility, localization and practical soft skills matter, GoodHabitz is particularly interesting.",
+    "a content library isn't necessarily a leadership-development program.",
+    "For a general-purpose corporate leadership program, I'd start with LinkedIn Learning.",
+    "For a dedicated leadership academy, I'd investigate Skillsoft Percipio very seriously.",
+    "company size, target audience (first-time managers / mid-level / executives), geography, LMS, and approximate budget per learner",
+    "LinkedIn Learning vs Skillsoft vs GoodHabitz vs other specialist libraries"
+  ],
+  "sources": [
+    {
+      "name": "linkedin.com",
+      "title": "LinkedIn Learning",
+      "url": "https://www.linkedin.com/learning/"
+    },
+    {
+      "name": "skillsoft.com",
+      "title": "Skillsoft Percipio",
+      "url": "https://www.skillsoft.com/percipo"
+    },
+    {
+      "name": "goodhabitz.com",
+      "title": "GoodHabitz",
+      "url": "https://www.goodhabitz.com/"
+    },
+    {
+      "name": "LinkedIn",
+      "title": "LinkedIn Learning: Online Training Courses & Skill Building",
+      "url": "https://www.linkedin.com/learning"
+    },
+    {
+      "name": "LinkedIn Business Solutions",
+      "title": "Leadership Training & Management Training | Linkedin Learning",
+      "url": "https://business.linkedin.com/learn/content-library/online-business-courses/leadership-and-management"
+    },
+    {
+      "name": "documentation.skillsoft.com",
+      "title": "Percipio Learner Quick Start Guide",
+      "url": "https://documentation.skillsoft.com/en_us/percipio/content/Resources/Print/percipio_qsg.pdf"
+    },
+    {
+      "name": "goodhabitz.com",
+      "title": "Erweitere dein LMS/LXP mit Online-Trainings und -Inhalten",
+      "url": "https://www.goodhabitz.com/de-de/produkt/lms"
+    },
+    {
+      "name": "goodhabitz.com",
+      "title": "Inhalte zum Lernen und zur Weiterentwicklung am Arbeitsplatz",
+      "url": "https://www.goodhabitz.com/de-de/entwicklungsbereiche"
+    }
+  ],
+  "screenshot": "chatgpt_q02.png"
+}

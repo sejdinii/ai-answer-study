@@ -1,0 +1,55 @@
+{
+  "platform": "chatgpt",
+  "question_id": 1,
+  "question": "What's the best online learning platform for corporate employee training?",
+  "collected_at": "2026-10-03T23:46:39",
+  "status": "ok",
+  "text": "If you mean a platform your company can use to train employees—onboarding, compliance, upskilling, certifications, etc.—my overall pick in 2026 is Absorb Software / Absorb LMS.\n\nCurrent comparisons consistently put Absorb, Docebo, Cornerstone, 360Learning, and LearnUpon among the leading corporate LMS options, though the best choice depends heavily on company size and training goals. \nD\nd2l.com\n+1\n\nMy shortlist\nPlatform\tBest for\tMy take\nAbsorb LMS\tMost companies / broad employee training\t⭐ Best overall\nDocebo\tLarge enterprises + AI/personalization\tBest for sophisticated L&D\n360Learning\tCollaborative, employee-created training\tBest for knowledge sharing\nCornerstone Learning\tVery large enterprises + talent management\tBest enterprise suite\nLearnUpon\tStraightforward employee/customer training\tBest balance of simplicity & capability\nTalentLMS\tSmaller companies / budget-conscious teams\tBest value\nRippling\tCompanies already using Rippling HR\tBest if you want training integrated with HR\n\nG2's current corporate-learning data gives Absorb a 4.6/5 rating across roughly 1,000 reviews, while 360Learning is also at 4.6/5 and Docebo at 4.3/5. \nG\nG2\n+1\n\nWhy I'd choose Absorb: it combines structured learning paths, compliance tracking, reporting, integrations, content delivery, and increasingly AI-driven administration/personalization without being limited to one particular training use case. \nG\nG2\n\nBut: if you have 1,000+ employees, I'd put Docebo vs. Absorb vs. Cornerstone through a proper RFP/demo. Docebo is particularly strong when AI-powered personalization, skills management, and training multiple audiences matter. \nG\nG2 Learning Hub\n+1\n\nIf you tell me your employee count, industry, budget per employee/year, and whether you need compliance training, I can narrow this to the best 2–3 platforms for your company and compare pricing, features, and implementation effort.",
+  "bold": [
+    "a platform your company can use to train employees",
+    "Absorb Software / Absorb LMS",
+    "Absorb LMS",
+    "Best overall",
+    "Docebo",
+    "360Learning",
+    "Cornerstone Learning",
+    "LearnUpon",
+    "TalentLMS",
+    "Rippling",
+    "4.6/5",
+    "Why I'd choose Absorb:",
+    "But:",
+    "1,000+ employees",
+    "Docebo vs. Absorb vs. Cornerstone",
+    "your employee count, industry, budget per employee/year, and whether you need compliance training",
+    "best 2–3 platforms for your company"
+  ],
+  "sources": [
+    {
+      "name": "d2l.com",
+      "title": "Best Corporate LMS Platforms for 2026",
+      "url": "https://www.d2l.com/blog/best-corporate-lms/"
+    },
+    {
+      "name": "g2.com",
+      "title": "Best Corporate Learning Management Systems: User Reviews from October 2026",
+      "url": "https://www.g2.com/categories/corporate-learning-management-systems"
+    },
+    {
+      "name": "G2",
+      "title": "Best Corporate Learning Management Systems: User Reviews from October 2026",
+      "url": "https://www.g2.com/categories/corporate-learning-management-systems?order=top_shelf"
+    },
+    {
+      "name": "G2 Learning Hub",
+      "title": "My Honest Evaluation of 7 Best Corporate LMS Software in 2026",
+      "url": "https://learn.g2.com/best-corporate-lms-software"
+    },
+    {
+      "name": "iTechGuides",
+      "title": "Best Corporate Learning Management Systems in 2026",
+      "url": "https://www.itechguides.com/best/corporate-learning-management-systems/"
+    }
+  ],
+  "screenshot": "chatgpt_q01.png"
+}

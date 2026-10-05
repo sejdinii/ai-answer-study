@@ -1,0 +1,72 @@
+{
+  "platform": "chatgpt",
+  "question_id": 9,
+  "question": "What's the best off-the-shelf training content library that integrates with Workday or SAP SuccessFactors?",
+  "collected_at": "2026-10-03T23:52:55",
+  "status": "ok",
+  "text": "If you mean a ready-made corporate learning catalog that plugs directly into Workday Learning or SAP SuccessFactors Learning, my shortlist would be:\n\nProvider\tBest for\tWorkday\tSuccessFactors\tMy take\nUdemy Business\tBroad skills, tech, business, fast-changing topics\t✅\t✅\tBest overall for breadth + integration\nCoursera for Business\tHigh-quality professional/academic learning, AI/data/business\t✅\t✅\tBest for premium/deep learning\nLinkedIn Learning\tGeneral business, leadership, productivity, Microsoft/tech\t✅\t✅\tBest general-purpose enterprise library\nGo1\tAggregating many publishers into one catalog\t✅\t✅\tBest if you want a content marketplace/aggregator\nSkillsoft Percipio\tLeadership, compliance, IT, cybersecurity\t✅\t✅\tBest for structured enterprise/IT learning\nOpenSesame\tVery broad multi-publisher catalog\t✅\t✅\tBest for catalog breadth and niche subjects\n\nWorkday currently lists Coursera, Go1, LinkedIn Learning, OpenSesame, Pluralsight, Skillsoft Percipio and Udemy Business among its supported external-content providers, with newer providers also being added through its Cloud Connect for Learning platform. \nD\ndoc.workday.com\n+1\n\nMy recommendation\n\nI'd pick Udemy Business if you want one library to cover the largest range of employee development needs. Its Workday integration can sync the catalog, completions/progress and skills, with SSO and access through Workday; its SuccessFactors integration similarly supports course discovery, activity tracking and reporting. \nM\nmarketplace-setup.workday.com\n+2\n\nI'd pick Coursera instead if content quality and depth matter more than sheer breadth. Coursera has direct integrations with both Workday and SAP SuccessFactors and supports learner activity/progress tracking. \nC\ncoursera.org\n\nLinkedIn Learning is particularly compelling if your workforce already lives in the Microsoft/LinkedIn ecosystem and you want a polished, broad library. Workday supports it as an external content provider, including completion tracking. \nW\nWorkday Documentation\n+1\n\nOne important distinction: Go1/OpenSesame are more like content aggregators, whereas Udemy, Coursera, LinkedIn Learning and Skillsoft primarily bring their own substantial content ecosystems. If your objective is \"give me one contract that gets me lots of publishers\", I'd investigate Go1/OpenSesame first.\n\nIf you tell me (a) Workday vs. SuccessFactors, (b) employee count, and (c) your top 3 content areas (e.g. leadership, AI/tech, compliance), I can rank the top 3 vendors and give you a feature/price/integration comparison.",
+  "bold": [
+    "a ready-made corporate learning catalog that plugs directly into Workday Learning or SAP SuccessFactors Learning",
+    "Udemy Business",
+    "Best overall for breadth + integration",
+    "Coursera for Business",
+    "Best for premium/deep learning",
+    "LinkedIn Learning",
+    "Best general-purpose enterprise library",
+    "Go1",
+    "Best if you want a content marketplace/aggregator",
+    "Skillsoft Percipio",
+    "Best for structured enterprise/IT learning",
+    "OpenSesame",
+    "Best for catalog breadth and niche subjects",
+    "I'd pick Udemy Business if you want one library to cover the largest range of employee development needs.",
+    "I'd pick Coursera instead if content quality and depth matter more than sheer breadth.",
+    "LinkedIn Learning",
+    "Go1/OpenSesame are more like content aggregators",
+    "(a) Workday vs. SuccessFactors, (b) employee count, and (c) your top 3 content areas",
+    "feature/price/integration comparison"
+  ],
+  "sources": [
+    {
+      "name": "doc.workday.com",
+      "title": "Reference: Content Providers Using the CCL Platform to Integrate With Workday Learning",
+      "url": "https://doc.workday.com/admin-guide/en-us/human-capital-management/learning/learning-content/cloud-connect-for-learning/reference--content-providers-using-the-ccl-platfor.html"
+    },
+    {
+      "name": "doc.workday.com",
+      "title": "Concept: Cloud Connect for Learning Integration Methods",
+      "url": "https://doc.workday.com/admin-guide/en-us/human-capital-management/learning/learning-content/cloud-connect-for-learning/concept--cloud-connect-for-learning-integration-me.html"
+    },
+    {
+      "name": "marketplace-setup.workday.com",
+      "title": "Udemy Business & Workday Integration by Udemy Business | Workday Marketplace",
+      "url": "https://marketplace-setup.workday.com/en-US/apps/414722/udemy-business-workday-integration"
+    },
+    {
+      "name": "business.udemy.com",
+      "title": "Workday - Udemy Business",
+      "url": "https://business.udemy.com/partners-and-integrations/workday/"
+    },
+    {
+      "name": "business.udemy.com",
+      "title": "SAP SuccessFactors - Udemy Business",
+      "url": "https://business.udemy.com/partners-and-integrations/sap-successfactors/"
+    },
+    {
+      "name": "coursera.org",
+      "title": "LMS Integrations for Coursera | Coursera for Business",
+      "url": "https://www.coursera.org/business/integrations"
+    },
+    {
+      "name": "Workday Documentation",
+      "title": "Configure External Content",
+      "url": "https://doc.workday.com/admin-guide/en-us/human-capital-management/learning/learning-content/cloud-connect-for-learning/fmw1537984231128.html"
+    },
+    {
+      "name": "Workday Documentation",
+      "title": "Steps: Set Up External Tracking",
+      "url": "https://doc.workday.com/admin-guide/en-us/human-capital-management/learning/learning-content/cloud-connect-for-learning/uom1644337621160.html"
+    }
+  ],
+  "screenshot": "chatgpt_q09.png"
+}

@@ -1,0 +1,92 @@
+{
+  "platform": "chatgpt",
+  "question_id": 9,
+  "question": "What's the best off-the-shelf training content library that integrates with Workday or SAP SuccessFactors?",
+  "collected_at": "2026-10-03T23:15:24",
+  "status": "ok",
+  "text": "If by “best” you mean best fit for an enterprise that wants a large, ready-made learning library embedded in Workday Learning or SAP SuccessFactors Learning, I’d shortlist Udemy Business, LinkedIn Learning, and Skillsoft Percipio.\n\nMy practical shortlist\nLibrary\tWorkday\tSuccessFactors\tParticularly strong for\nUdemy Business\t✅ Deep/approved integration\t✅ Deep integration\tBroad business + technology skills, rapidly changing topics\nLinkedIn Learning\t✅ Deep integration\t✅ Integration\tBusiness, leadership, productivity, professional skills\nSkillsoft Percipio\t✅ Supported/CCL integration\t✅ Especially strong SAP integration\tEnterprise learning, IT, compliance, leadership\nCoursera for Business\t✅ Supported\t✅ Supported via SAP OCN\tUniversity-style, professional certificates, technical depth\nGo1\t✅ Supported\t✅ Supported\tAggregating multiple publishers/content sources\nOpenSesame\t✅ Supported\t✅ Supported\tVery broad multi-publisher catalog\n\nWorkday's current documentation lists Coursera, Go1, Harvard ManageMentor, LinkedIn Learning, OpenSesame, Pluralsight, Skillsoft Percipio and Udemy Business among its external-content providers, while its newer Cloud Connect for Learning platform has a broader provider ecosystem. \nW\nWorkday Documentation\n+1\n\nIf you're choosing between the big three\n\nUdemy Business is particularly compelling if your workforce needs technical/digital skills and a very broad, frequently changing catalog. Its integration is unusually comprehensive: Workday can automatically sync courses, learning paths, labs and assessments, with reporting back into Workday. \nW\nWorkday Marketplace\n+1\n\nIt also integrates with SuccessFactors: learners can search, discover and launch Udemy content within SuccessFactors, while completion data can flow back for reporting. \nU\nUdemy Business\n+1\n\nLinkedIn Learning is a strong fit if the emphasis is professional skills, leadership, productivity and business learning. Its Workday integration supports catalog synchronization and completion/activity reporting. \nM\nMicrosoft Learn\n It also has a SuccessFactors integration, although SAP's authentication transition requires existing customers to make a configuration change before November 20, 2027. \nL\nLinkedIn\n\nSkillsoft Percipio is worth serious consideration for a more traditional enterprise L&D environment—particularly if IT, compliance, leadership and structured learning programs are important. SAP actually offers an SAP Content Stream by Skillsoft solution with Business/Technology and additional immersive/practice content editions. \nS\nsupport.sap.com\n Workday also supports Percipio as an external content provider, with skills metadata capable of being incorporated into Workday Skills Cloud. \nW\nWorkday Documentation\n+1\n\nThe key distinction\n\nIf integration quality is a major purchasing criterion, I'd pay particular attention to the difference between:\n\nWorkday's current documentation lists Coursera, Go1, Harvard ManageMentor, LinkedIn Learning, OpenSesame, Pluralsight, Skillsoft Percipio and Udemy Business among its external-content providers, while its newer Cloud Connect for Learning platform has a broader provider ecosystem. \nD\ndoc.workday.com\n+1\n\nUdemy Business is particularly compelling if your workforce needs technical/digital skills and a very broad, frequently changing catalog. Its integration is unusually comprehensive: Workday can automatically sync courses, learning paths, labs and assessments, with reporting back into Workday. \nM\nmarketplace-setup.workday.com\n+1\n\nIt also integrates with SuccessFactors: learners can search, discover and launch Udemy content within SuccessFactors, while completion data can flow back for reporting. \nB\nbusiness.udemy.com\n+1\n\nLinkedIn Learning is a strong fit if the emphasis is professional skills, leadership, productivity and business learning. Its Workday integration supports catalog synchronization and completion/activity reporting. \nM\nMicrosoft Learn\n It also has a SuccessFactors integration, although SAP's authentication transition requires existing customers to make a configuration change before November 20, 2027. \nL\nlinkedin.com\n\n“Can launch external content from the LMS?”\n\n“Can synchronize the catalog?”\n\n“Can synchronize completions?”\n\n“Can sync learning paths/collections?”\n\n“Can map content to skills?”\n\n“Does it work natively with both Workday and SuccessFactors?”\n\nUdemy currently has particularly explicit capabilities across those dimensions: its Workday integration includes catalog, collections/learning paths, labs, assessments and reporting, while its SuccessFactors integration supports catalog discovery and completion reporting. \nU\nUdemy Business\n+1\n\nSo, if you have both Workday and SuccessFactors in the shortlist and want one content vendor that works well with either ecosystem, I'd put Udemy Business near the top of the RFP. But the right choice depends heavily on whether you're optimizing for technical skills, leadership/business skills, compliance, certifications, or breadth.\n\nIf you tell me your employee population (e.g. 5k/20k/100k), main content categories, and whether you're on Workday Learning or SuccessFactors Learning, I can build a vendor-by-vendor comparison including catalog size, integration depth, skills mapping, content quality, pricing model, and likely fit.",
+  "bold": [
+    "best fit for an enterprise that wants a large, ready-made learning library embedded in Workday Learning or SAP SuccessFactors Learning",
+    "Udemy Business, LinkedIn Learning, and Skillsoft Percipio",
+    "Udemy Business",
+    "LinkedIn Learning",
+    "Skillsoft Percipio",
+    "Coursera for Business",
+    "Go1",
+    "OpenSesame",
+    "Udemy Business",
+    "technical/digital skills and a very broad, frequently changing catalog",
+    "LinkedIn Learning",
+    "professional skills, leadership, productivity and business learning",
+    "Skillsoft Percipio",
+    "enterprise L&D",
+    "SAP Content Stream by Skillsoft",
+    "integration quality is a major purchasing criterion",
+    "Udemy Business",
+    "technical/digital skills and a very broad, frequently changing catalog",
+    "LinkedIn Learning",
+    "professional skills, leadership, productivity and business learning",
+    "“Can launch external content from the LMS?”",
+    "“Can synchronize the catalog?”",
+    "“Can synchronize completions?”",
+    "“Can sync learning paths/collections?”",
+    "“Can map content to skills?”",
+    "“Does it work natively with both Workday and SuccessFactors?”",
+    "So, if you have both Workday and SuccessFactors in the shortlist and want one content vendor that works well with either ecosystem, I'd put Udemy Business near the top of the RFP.",
+    "your employee population (e.g. 5k/20k/100k), main content categories, and whether you're on Workday Learning or SuccessFactors Learning",
+    "vendor-by-vendor comparison including catalog size, integration depth, skills mapping, content quality, pricing model, and likely fit"
+  ],
+  "sources": [
+    {
+      "name": "Workday Documentation",
+      "title": "Configure External Content",
+      "url": "https://doc.workday.com/admin-guide/en-us/human-capital-management/learning/learning-content/cloud-connect-for-learning/fmw1537984231128.html"
+    },
+    {
+      "name": "Workday Documentation",
+      "title": "Reference: Content Providers Using the CCL Platform to Integrate With Workday Learning",
+      "url": "https://doc.workday.com/admin-guide/en-us/human-capital-management/learning/learning-content/cloud-connect-for-learning/reference--content-providers-using-the-ccl-platfor.html"
+    },
+    {
+      "name": "Workday Marketplace",
+      "title": "Udemy Business & Workday Integration by Udemy Business | Workday Marketplace",
+      "url": "https://marketplace-setup.workday.com/en-US/apps/414722/udemy-business-workday-integration"
+    },
+    {
+      "name": "Udemy Business",
+      "title": "Learning Management System integrations – Udemy Business",
+      "url": "https://business-support.udemy.com/hc/en-us/sections/4419762282007-Learning-Management-System-integrations"
+    },
+    {
+      "name": "Udemy Business",
+      "title": "SAP SuccessFactors - Udemy Business",
+      "url": "https://business.udemy.com/partners-and-integrations/sap-successfactors/"
+    },
+    {
+      "name": "Udemy Business",
+      "title": "Udemy Business LMS Integration: SuccessFactors – Udemy Business",
+      "url": "https://business-support.udemy.com/hc/en-us/articles/360057232334-Udemy-Business-LMS-Integration-SuccessFactors"
+    },
+    {
+      "name": "Microsoft Learn",
+      "title": "LinkedIn Learning and Workday Deep Integration Guide - LinkedIn | Microsoft Learn",
+      "url": "https://learn.microsoft.com/de-de/linkedin/learning/lms-integrations/integration-docs/workday"
+    },
+    {
+      "name": "LinkedIn",
+      "title": "Update your SAP SuccessFactors (OCN) integration with LinkedIn Learning | Learning Help",
+      "url": "https://www.linkedin.com/help/learning/answer/a14370269"
+    },
+    {
+      "name": "support.sap.com",
+      "title": "SAP Content Stream by Skillsoft",
+      "url": "https://support.sap.com/en/product/onboarding-resource-center/skillsoft.html"
+    },
+    {
+      "name": "services.skillsoft.com",
+      "title": "PowerPoint Presentation",
+      "url": "https://services.skillsoft.com/VanillaFiles/skillsoft_news/PercipioPublicRoadmap_Q22024.pdf"
+    }
+  ],
+  "screenshot": "chatgpt_q09.png"
+}

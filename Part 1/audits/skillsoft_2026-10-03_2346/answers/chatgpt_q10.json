@@ -1,0 +1,65 @@
+{
+  "platform": "chatgpt",
+  "question_id": 10,
+  "question": "Is Skillsoft Percipio worth it for corporate training?",
+  "collected_at": "2026-10-03T23:53:30",
+  "status": "ok",
+  "text": "Yes—Skillsoft Percipio can be worth it for corporate training, but mainly when you have a reasonably large workforce and want a broad, centrally managed learning library rather than a small set of highly specialized courses.\n\nWhere Percipio is strong\n\nVery broad content: Technology, leadership, business skills, compliance, certifications, and professional development are all covered. Reviewers consistently praise the breadth of the catalog. \nG\nG2\n+1\n\nGood for enterprise-scale learning: It supports learning paths, skills benchmarking, assignments, progress tracking, certifications, and custom content—useful for L&D teams trying to standardize training across departments or countries. \nG\nG2\n\nStrong multinational use case: Content is available in multiple languages, and reviewers particularly highlight AI translation and globally relevant/localized content. \nG\nG2\n\nGood mix of learning formats: Courses, videos, books/book summaries, audio, certifications and other formats make it easier to accommodate different learning preferences. \nG\nG2\n+1\n\nGenerally positive user sentiment: Percipio is around 4.1/5 on G2 (100+ reviews) and 4.7/5 on Capterra (11 reviews), although the Capterra sample is much smaller. \nG\nG2\n+1\n\nWhere I'd be cautious\n\nThe biggest issue is depth versus breadth.\n\nPercipio gives you a lot of training, but not every course is equally good. Reviews mention uneven course quality, limited hands-on exercises in some areas, and some courses being overly video-centric. \nG\nG2\n+1\n\nThe administrator experience is another potential weakness. Learners generally find the platform easy enough, while administrators sometimes describe reporting and back-end configuration as less intuitive or somewhat cumbersome. \nG\nG2\n+1\n\nAnd pricing matters. Current third-party pricing information indicates a self-service Teams offering around $240/user/year, while larger enterprise deployments are quote-based. I'd treat that figure as indicative rather than a guaranteed enterprise price. \nC\ncompanylms.com\n\nMy verdict\nSituation\tVerdict\n1,000+ employees needing broad training\tVery good fit\nGlobal workforce / multilingual training\tVery good fit\nLeadership + business + IT + compliance\tVery good fit\nCertification preparation\tGood fit\nDeep hands-on technical training\tMixed\nSmall company with simple training needs\tProbably overkill\nYou need consistently exceptional course quality\tCompare alternatives carefully\nYou mainly need an LMS for your own content\tProbably consider cheaper/simpler LMSs\n\nI'd shortlist Percipio for an enterprise L&D program, but I wouldn't buy it solely because it has a huge course catalog. The real question is whether your employees will actually use enough of that catalog to justify the per-seat cost.\n\nIf you're comparing Percipio vs LinkedIn Learning vs Coursera for Business vs Udemy Business, I can give you a side-by-side recommendation based on price, content quality, AI/tech training, management features, and ROI.",
+  "bold": [
+    "Skillsoft Percipio can be worth it for corporate training",
+    "Very broad content:",
+    "Good for enterprise-scale learning:",
+    "Strong multinational use case:",
+    "Good mix of learning formats:",
+    "Generally positive user sentiment:",
+    "4.1/5 on G2 (100+ reviews)",
+    "4.7/5 on Capterra (11 reviews)",
+    "depth versus breadth",
+    "administrator experience",
+    "$240/user/year",
+    "Very good fit",
+    "Very good fit",
+    "Very good fit",
+    "Good fit",
+    "Mixed",
+    "Probably overkill",
+    "Compare alternatives carefully",
+    "Probably consider cheaper/simpler LMSs",
+    "I'd shortlist Percipio for an enterprise L&D program, but I wouldn't buy it solely because it has a huge course catalog.",
+    "Percipio vs LinkedIn Learning vs Coursera for Business vs Udemy Business",
+    "price, content quality, AI/tech training, management features, and ROI"
+  ],
+  "sources": [
+    {
+      "name": "G2",
+      "title": "Skillsoft Products | Read 109 Reviews on G2",
+      "url": "https://www.g2.com/sellers/skillsoft"
+    },
+    {
+      "name": "Capterra",
+      "title": "Skillsoft Software Pricing, Alternatives & More 2026 | Capterra",
+      "url": "https://www.capterra.com/p/291/Skillsoft/"
+    },
+    {
+      "name": "G2",
+      "title": "Skillsoft Percipio Platform Pros and Cons | User Likes & Dislikes",
+      "url": "https://www.g2.com/products/skillsoft-percipio-platform/reviews?qs=pros-and-cons"
+    },
+    {
+      "name": "GetApp",
+      "title": "Skillsoft 2026 Pricing, Features, Reviews & Alternatives | GetApp",
+      "url": "https://www.getapp.com/education-childcare-software/a/skillsoft-1/"
+    },
+    {
+      "name": "Capterra",
+      "title": "Percipio Reviews 2026. Verified Reviews, Pros & Cons | Capterra",
+      "url": "https://www.capterra.com/p/207276/Percipio/reviews/"
+    },
+    {
+      "name": "companylms.com",
+      "title": "Skillsoft Pricing With Percipio at $240 per User | CompanyLMS",
+      "url": "https://companylms.com/blog/skillsoft-pricing"
+    }
+  ],
+  "screenshot": "chatgpt_q10.png"
+}

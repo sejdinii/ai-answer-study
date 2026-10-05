@@ -1,0 +1,6 @@
+.browser-profile/
+.chrome-profile/
+.edge-profile/
+.edge-run/
+__pycache__/
+*.pyc

@@ -1,0 +1,33 @@
+{
+  "platform": "gemini",
+  "question_id": 9,
+  "question": "What's the best off-the-shelf training content library that integrates with Workday or SAP SuccessFactors?",
+  "collected_at": "2026-10-03T23:53:10",
+  "status": "ok",
+  "text": "When looking for an off-the-shelf training content library that integrates smoothly with enterprise human capital management systems like Workday or SAP SuccessFactors, the \"best\" choice depends on whether you want a massive general library, specialized compliance training, or an aggregation model that lets you mix and match.\n\nThe top-tier content libraries built for seamless integration with Workday and SAP SuccessFactors include:\n\n1. Go1 (Best for Content Aggregation & Variety)\n\nWhat it is: Go1 functions like an \"App Store\" for eLearning. Instead of locking you into a single publisher's style, it aggregates millions of courses from top content providers worldwide (such as Harvard Business Publishing, Pluralsight, and others) into a single subscription.\n\nWhy it fits: Go1 is designed specifically for enterprise HR tech ecosystems. It features robust, pre-built integrations with both Workday and SAP SuccessFactors, allowing course catalogs to sync directly into your existing HR user interface so employees don't have to log into a separate system.\n\n2. Skillsoft (Global / SAP Content Stream)\n\nWhat it is: One of the most established enterprise content libraries in the world, featuring deep collections covering leadership development, compliance, and technical/IT skills.\n\nWhy it fits: Skillsoft has a deeply embedded partnership with SAP (offered natively as SAP Content Stream by Skillsoft), making it practically plug-and-play if you use SAP SuccessFactors. It also offers standard connectors and SCORM/xAPI packages that integrate cleanly into Workday environments.   \nSAP\n\n3. OpenSesame (Best Curated Marketplace)\n\nWhat it is: A curated marketplace of off-the-shelf training courses featuring multiple publishers, backed by robust curation tools and AI-driven recommendations.\n\nWhy it fits: OpenSesame places a heavy focus on interoperability. Their courses can be packaged or dynamically fed via API straight into Workday Learning or SAP SuccessFactors Learning paths, ensuring seamless completion tracking and reporting.\n\n4. Cornerstone Content (Formerly Grover / Cornerstone Originals)\n\nWhat it is: Cornerstone provides massive enterprise-grade libraries focusing on modern workplace skills, compliance, and leadership.\n\nWhy it fits: While Cornerstone has its own LMS ecosystem, their content modules are built to be flexible and can be licensed independently and integrated into other major enterprise architectures like Workday.\n\nQuick Comparison Table\nContent Library\tPrimary Strength\tBest Integration Fit\nGo1\tMassive variety via a single aggregator subscription\tWorkday & SuccessFactors\nSkillsoft\tDeep technical, leadership, and compliance tracks\tNative integration with SAP SuccessFactors\nOpenSesame\tCurated catalog quality & flexible multiformat courses\tWorkday Learning\nKey Integration Tip\n\nWhen connecting an external content library to Workday or SAP SuccessFactors, ensure you check whether the provider uses SCORM/xAPI packages or API-based metadata syncing. API-based content streaming generally provides a smoother user experience because course updates, metadata, and completions sync automatically without requiring manual SCORM package re-uploads.\n\nWhat specific topics or skills (e.g., technical skills, mandatory compliance, or leadership) are you prioritizing for your team?",
+  "bold": [
+    "Workday",
+    "SAP SuccessFactors",
+    "What it is:",
+    "Why it fits:",
+    "What it is:",
+    "Why it fits:",
+    "What it is:",
+    "Why it fits:",
+    "What it is:",
+    "Why it fits:",
+    "Go1",
+    "Skillsoft",
+    "OpenSesame",
+    "SCORM/xAPI packages",
+    "API-based metadata syncing"
+  ],
+  "sources": [
+    {
+      "name": "SAP",
+      "title": "SAP\nCorporate Learning Management System (LMS) | SAP SuccessFactors\n“Access curated content from SAP Content Stream by Skillsoft and Open Content Network partners, covering compliance, technical, and professional development topi...”",
+      "url": "https://www.sap.com/products/hcm/corporate-lms.html"
+    }
+  ],
+  "screenshot": "gemini_q09.png"
+}

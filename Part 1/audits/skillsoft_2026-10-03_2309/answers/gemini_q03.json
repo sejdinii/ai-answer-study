@@ -1,0 +1,39 @@
+{
+  "platform": "gemini",
+  "question_id": 3,
+  "question": "Which platform has the best soft skills training for employees, like communication and emotional intelligence?",
+  "collected_at": "2026-10-03T23:11:30",
+  "status": "ok",
+  "text": "When looking for the best platform for soft skills training—such as communication, empathy, and emotional intelligence—different solutions stand out depending on whether you want a massive course library, immersive practice, or professional coaching.\n\n1. LinkedIn Learning (Best for Broad Course Variety)\n\nWhy it shines: It features a massive, AI-curated library of video courses specifically built around soft skills, taught by industry experts.   \nDisco Learning Platform\n\nKey Focus Areas: Business communication, active listening, cross-cultural collaboration, and emotional intelligence.\n\nBest for: Companies that want a vast catalog of structured courses that employees can explore at their own pace.\n\n2. VirtualSpeech or Mursion (Best for Immersive & AI Practice)\n\nWhy it shines: Soft skills are notoriously hard to learn just by watching videos; they require practice. These platforms use VR and AI simulations to let employees practice difficult conversations, public speaking, and conflict resolution in a risk-free environment, providing instant feedback.   \nDisco Learning Platform\n\nKey Focus Areas: Difficult workplace conversations, empathy building, leadership presence, and public speaking.\n\nBest for: Organizations looking for high-engagement, experiential training that simulates real human interaction.   \nDisco Learning Platform\n\n3. BetterUp (Best for 1-on-1 Coaching at Scale)\n\nWhy it shines: BetterUp blends AI-powered growth plans with human professional coaching. It focuses heavily on \"mental fitness,\" resilience, and self-awareness, which are foundational to emotional intelligence.   \nDisco Learning Platform\n\nKey Focus Areas: Executive presence, self-regulation, empathy, and interpersonal leadership.\n\nBest for: Mid-to-large enterprises wanting deep, personalized behavioral development for managers and key team members.\n\n4. Coursera for Business (Best for Academic & Credentialed Depth)\n\nWhy it shines: Coursera partners with top-tier universities (like Yale, Michigan, and Wharton) and global companies to offer deep-dive specializations on emotional intelligence and workplace psychology.\n\nKey Focus Areas: Emotional intelligence in the workplace, negotiation, leadership communication, and human resource psychology.   \nCoursera\n\nBest for: Companies that value rigorous, academic-backed curriculum and recognized certificates for completion.\n\nSummary Recommendation\n\nChoose LinkedIn Learning for a comprehensive, easy-to-deploy content library.\n\nChoose VirtualSpeech / Mursion if you want employees to actively practice communication via roleplay and simulation.\n\nChoose BetterUp if you are prioritizing leadership coaching and deep emotional intelligence growth.\n\nWhat specific team size or learning format is your organization leaning toward?",
+  "bold": [
+    "Why it shines:",
+    "Key Focus Areas:",
+    "Best for:",
+    "Why it shines:",
+    "VR and AI simulations",
+    "Key Focus Areas:",
+    "Best for:",
+    "Why it shines:",
+    "Key Focus Areas:",
+    "Best for:",
+    "Why it shines:",
+    "Key Focus Areas:",
+    "Best for:",
+    "LinkedIn Learning",
+    "VirtualSpeech / Mursion",
+    "BetterUp"
+  ],
+  "sources": [
+    {
+      "name": "Disco Learning Platform",
+      "title": "Disco Learning Platform\nBest AI Tools for Soft Skills Training in 2026 - Disco Learning Platform\n“* 2. VirtualSpeech: The Best AI Tool for Immersive Soft Skills Training. * 3. Mursion: The Best AI Tool for Human-AI Simulations for Soft Skills. * 4. BetterUp:...”",
+      "url": "https://www.disco.co/blog/ai-tools-for-soft-skills-training"
+    },
+    {
+      "name": "Coursera",
+      "title": "Coursera\nEmotional Intelligence in the Workplace - Coursera\n“Emotional Intelligence in the Workplace | Coursera. Emotional Intelligence in the Workplace * Categories. * Business. * Business Essentials. ”",
+      "url": "https://www.coursera.org/learn/emotional-intelligence-training"
+    }
+  ],
+  "screenshot": "gemini_q03.png"
+}

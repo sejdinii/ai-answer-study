@@ -1,0 +1,57 @@
+{
+  "platform": "chatgpt",
+  "question_id": 8,
+  "question": "How can I upskill managers across my company without building courses in-house?",
+  "collected_at": "2026-10-03T23:14:46",
+  "status": "ok",
+  "text": "Yes. You can build a strong manager-development system without creating your own courses. The trick is to outsource the content and facilitation, while keeping ownership of the manager standards, participant selection, practice, and measurement internally.\n\nA practical model\n1. Buy a proven core program\n\nInstead of building 10–20 internal courses, choose an external provider with an existing manager curriculum.\n\nFor example:\n\nCenter for Creative Leadership offers programs for frontline, mid-level and senior leaders, including live-online and in-person formats. It also offers enterprise-scale content and customized cohorts. \nC\nCCL\n+1\n\nFranklinCovey offers an enterprise content subscription, instructor-led training, coaching and a train-the-trainer option. \nF\nFranklinCovey\n\nFor a DACH-focused approach, providers such as Schuppan offer in-house, live-online and coaching formats. \nS\nSchuppan Management\n\nYou don't necessarily need the same provider for every level.\n\n2. Segment managers by level\n\nI'd avoid one generic \"Manager Academy.\"\n\nA simple architecture is:\n\nPopulation\tDevelopment focus\nNew managers\t1:1s, feedback, delegation, performance conversations, team basics\nExperienced managers\tCoaching, conflict, influencing, prioritization, developing talent\nSenior managers\tStrategy, organizational change, cross-functional leadership, succession\nHigh potentials\tBroader enterprise perspective, strategic projects, executive exposure\n\nFor example, CCL explicitly distinguishes programs for emerging/frontline, mid-level and senior leaders. \nC\nCCL\n\n3. Make the vendor provide the \"course,\" not the whole development experience\n\nThis is the important bit.\n\nA manager shouldn't simply attend six workshops and receive a certificate. Use a structure like:\n\nExternal content → cohort session → real work → manager/peer practice → reflection → repeat\n\nFor example, a 10-week journey could be:\n\nExternal provider: managing performance\n\nApply it to one real employee situation\n\nPeer practice group\n\nManager's manager observes/checks in\n\nExternal provider: difficult conversations\n\nApply to a real conversation\n\nPeer case clinic\n\nExternal provider: delegation/coaching\n\nAction-learning project\n\nReflection + development plan\n\nThe external provider supplies the expertise and learning assets; your organization supplies the context and application.\n\n4. Establish 5–8 non-negotiable management behaviors internally\n\nThis is the piece I'd not outsource.\n\nFor example, CCL explicitly distinguishes programs for emerging/frontline, mid-level and senior leaders. \nC\nCCL\n\nEvery manager at our company is expected to set clear expectations, hold regular 1:1s, give timely feedback, address performance issues early, develop people, and create an inclusive team environment.\n\nThen make the external curriculum reinforce those behaviors.\n\nThat prevents the classic problem where employees attend a prestigious leadership course but return to an organization with completely different management expectations.\n\n5. Use different purchasing models\n\nYou have several options:\n\nA. Enterprise library\n\nBuy access to a large external library and let managers consume relevant material. FranklinCovey, for example, offers an All Access Pass containing content, assessments, tools and videos. \nF\nFranklinCovey\n\nBest when you have hundreds/thousands of managers and need broad coverage.\n\nB. Cohort program\n\nBuy an existing program and run cohorts of 15–30 managers.\n\nBest when you want behavior change rather than content consumption.\n\nCCL, for example, offers open-enrollment programs as well as customized organizational cohorts. \nC\nCCL\n\nHave the provider certify a small number of your HR/L&D people to deliver its existing material. FranklinCovey explicitly offers this model. \nF\nFranklinCovey\n\nCurriculum for new, experienced and senior managers\n\nLive vs asynchronous delivery\n\nGlobal/DACH delivery capability\n\nCohort size\n\nFacilitator quality and consistency\n\nAssessments/360s\n\nCoaching options\n\nManager-of-participant involvement\n\nApplication between sessions\n\nMeasurement of behavioral change\n\nLocalization/customization\n\nLMS/LXP integration\n\nPricing at 100 / 500 / 1,000 managers\n\nTrain-the-trainer/licensing options\n\nReferences from organizations of similar scale\n\nThen pilot one cohort of ~20–30 managers before committing to an enterprise rollout.\n\nThe key principle is: don't build a manager academy; build a manager-development system and plug external content into it. That gives you the speed and quality of specialist providers without giving up control of what \"good management\" means in your company.",
+  "bold": [
+    "without creating your own courses",
+    "manager standards, participant selection, practice, and measurement",
+    "New managers",
+    "Experienced managers",
+    "Senior managers",
+    "High potentials",
+    "External content → cohort session → real work → manager/peer practice → reflection → repeat",
+    "your organization supplies the context and application",
+    "A. Enterprise library",
+    "hundreds/thousands of managers",
+    "B. Cohort program",
+    "behavior change rather than content consumption",
+    "one cohort of ~20–30 managers",
+    "don't build a manager academy; build a manager-development system and plug external content into it."
+  ],
+  "sources": [
+    {
+      "name": "ccl.org",
+      "title": "Center for Creative Leadership",
+      "url": "https://www.ccl.org/"
+    },
+    {
+      "name": "CCL",
+      "title": "Leadership Development Services & Solutions | CCL",
+      "url": "https://www.ccl.org/leadership-solutions/"
+    },
+    {
+      "name": "CCL",
+      "title": "Individualized, Highly Personal Leadership Development | CCL",
+      "url": "https://www.ccl.org/leadership-challenges/individual-leadership-development/"
+    },
+    {
+      "name": "franklincovey.com",
+      "title": "FranklinCovey",
+      "url": "https://www.franklincovey.com/"
+    },
+    {
+      "name": "FranklinCovey",
+      "title": "Engage With Us",
+      "url": "https://mp.franklincovey.com/engage-with-us/"
+    },
+    {
+      "name": "Schuppan Management",
+      "title": "Führungsweiterbildung in der DACH-Region | Training, Coaching & Inhouse - Schuppan Leadership Akademie",
+      "url": "https://schuppan-management.de/fuehrungsweiterbildung.html"
+    }
+  ],
+  "screenshot": "chatgpt_q08.png"
+}

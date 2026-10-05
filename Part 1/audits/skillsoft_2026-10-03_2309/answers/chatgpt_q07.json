@@ -1,0 +1,62 @@
+{
+  "platform": "chatgpt",
+  "question_id": 7,
+  "question": "Which corporate learning platform has the best AI-powered coaching and personalized learning?",
+  "collected_at": "2026-10-03T23:14:04",
+  "status": "ok",
+  "text": "If by “best” you mean strongest combination of AI coaching + genuinely personalized learning, I’d shortlist Docebo, Sana Learn, Degreed, and 360Learning rather than treating every AI-enabled LMS as equivalent.\n\nPlatform\tAI coaching\tPersonalization\tParticularly strong for\nDocebo\tVirtual coaching, AI copilot, coaching scenarios\tSkills-based paths, skill-gap detection, personalized content\tLarge enterprises needing a full LMS + AI\nSana Learn\tAI tutor/assistant and conversational learning\tAI-native adaptive learning and knowledge discovery\tCompanies wanting an AI-first learning experience\nDegreed\tAI-powered coaching/development support\tStrong skills intelligence, role-based pathways\tWorkforce transformation and internal mobility\n360Learning\tAdaptive AI coaching\tSkills-based, organization-specific recommendations\tCollaborative learning and internal expertise\n\nDocebo is probably the most complete option if you need a mature enterprise LMS alongside the AI. Its current platform combines personalized learning paths, skills-gap analysis, AI-generated learning, coaching scenarios and an AI copilot. \nD\nDocebo\n+1\n\nSana Learn is particularly interesting if the learning experience itself is the priority. It is designed AI-first rather than adding AI primarily onto a traditional LMS, with AI-generated content, tutoring and enterprise knowledge access. \nA\nAIpedia\n+1\n\nDegreed is worth looking at if “personalized learning” means personalized around skills and career development, rather than simply recommending the next course. It focuses heavily on skills intelligence, personalized feeds/pathways and workforce development. \nC\ncomputerworld.com\n\n360Learning stands out when personalization needs to be grounded in your company's own expertise. Its current platform describes adaptive coaching that uses organizational knowledge, alongside AI content creation and collaborative learning.\n\nMy practical shortlist\n\nDocebo is probably the most complete option if you need a mature enterprise LMS alongside the AI. Its current platform combines personalized learning paths, skills-gap analysis, AI-generated learning, coaching scenarios and an AI copilot. \nD\ndocebo.com\n+1\n\nSana Learn is particularly interesting if the learning experience itself is the priority. It is designed AI-first rather than adding AI primarily onto a traditional LMS, with AI-generated content, tutoring and enterprise knowledge access. \nE\nen.ai-pedias.com\n+1\n\nDegreed is worth looking at if “personalized learning” means personalized around skills and career development, rather than simply recommending the next course. It focuses heavily on skills intelligence, personalized feeds/pathways and workforce development. \nC\ncomputerworld.com\n\nNeed sophisticated AI coaching + enterprise LMS: Docebo\n\nWant the most AI-native learner experience: Sana Learn\n\nWant skills/career personalization: Degreed\n\nWant AI coaching grounded in internal SME knowledge: 360Learning\n\nThe important distinction is that “AI personalization” can mean very different things: course recommendations, adaptive paths, skills-gap diagnosis, conversational tutoring, or actual role-play/coaching. If you tell me your company size, whether you need an LMS or LXP, and what kind of coaching (leadership, sales, technical, etc.), I can compare the 3–4 most relevant platforms feature-by-feature, including pricing and integrations.",
+  "bold": [
+    "“best” you mean strongest combination of AI coaching + genuinely personalized learning",
+    "Docebo, Sana Learn, Degreed, and 360Learning",
+    "Docebo",
+    "Virtual coaching",
+    "Sana Learn",
+    "AI-first learning experience",
+    "Degreed",
+    "360Learning",
+    "Adaptive AI coaching",
+    "Docebo",
+    "Sana Learn",
+    "Degreed",
+    "personalized around skills and career development",
+    "360Learning",
+    "Docebo",
+    "Sana Learn",
+    "Degreed",
+    "personalized around skills and career development",
+    "Need sophisticated AI coaching + enterprise LMS:",
+    "Want the most AI-native learner experience:",
+    "Want skills/career personalization:",
+    "Want AI coaching grounded in internal SME knowledge:",
+    "“AI personalization” can mean very different things",
+    "company size, whether you need an LMS or LXP, and what kind of coaching (leadership, sales, technical, etc.)"
+  ],
+  "sources": [
+    {
+      "name": "Docebo",
+      "title": "AI-First LMS for Enterprise Learning & Skills | Docebo",
+      "url": "https://www.docebo.com/"
+    },
+    {
+      "name": "Docebo",
+      "title": "AI-first LMS für Lernen & Kurserstellung & Skills | Docebo",
+      "url": "https://www.docebo.com/de/"
+    },
+    {
+      "name": "AIpedia",
+      "title": "AI Corporate Learning & LMS Tools Compared 2026 — Docebo vs 360Learning vs Cornerstone vs Sana vs Absorb | AIpedia",
+      "url": "https://en.ai-pedias.com/blog/ai-corporate-learning-lms-2026"
+    },
+    {
+      "name": "Aixa",
+      "title": "Top 5 AI Learning Platforms for Enterprise Training in 2026 | Aixa",
+      "url": "https://iamaixa.com/resources/top-5-ai-learning-platforms-for-enterprise-training-in-2026"
+    },
+    {
+      "name": "computerworld.com",
+      "title": "Enterprise buyer’s guide: How to select a learning experience platform – Computerworld",
+      "url": "https://www.computerworld.com/article/4029029/enterprise-buyers-guide-how-to-select-a-learning-experience-platform.html"
+    }
+  ],
+  "screenshot": "chatgpt_q07.png"
+}

@@ -1,0 +1,76 @@
+{
+  "platform": "chatgpt",
+  "question_id": 6,
+  "question": "Udemy Business vs Coursera for Business: which is better for a 2,000-employee company?",
+  "collected_at": "2026-10-03T23:50:47",
+  "status": "ok",
+  "text": "For a 2,000-employee company, I’d generally choose Coursera for Business if the goal is a strategic, enterprise-wide learning program. I’d choose Udemy Business if the priority is broad, fast-moving skills training—especially technology, AI, software, and practical “learn what I need today” development.\n\nMy verdict\n\tUdemy Business\tCoursera for Business\nBest for\tBroad skills access & rapid upskilling\tStructured enterprise capability building\nContent breadth\tExcellent — 30K+ curated courses\tExcellent — 10K+ core courses, plus credentials/content\nUniversity credentials\tGood\tExcellent\nPractical tech training\tExcellent\tExcellent\nAI / GenAI\tExcellent\tExcellent\nStructured learning paths\tExcellent\tExcellent\nProfessional certificates\tGood\tExcellent\nHands-on labs/projects\tExcellent, especially with Pro\tExcellent\nSkills measurement\tExcellent\tExcellent\nEnterprise integrations\tExcellent\tExcellent\nGlobal workforce\tExcellent\tExcellent\n2,000-user enterprise fit\tExcellent\tExcellent\nLikely advantage\tAdoption + breadth\tCredentials + structured development\nWhere Coursera has the edge\n\nFor a 2,000-person organization, Coursera's Enterprise tier is explicitly designed for organizations with 500+ users. It includes Skill Tracks, AI-assisted custom course creation, SSO/API integrations, dedicated customer success, skills analytics and proficiency tracking. \nC\nCoursera\n+1\n\nThe biggest differentiator is structured, credential-oriented learning. Coursera offers content from universities and companies, Professional Certificates, hands-on projects, assessments and Skills Tracks covering areas such as data, IT, software/product and GenAI. \nC\nCoursera\n+1\n\nI'd favor Coursera if your L&D strategy is something like:\n\n\"We need to identify capability gaps, build defined curricula for different roles, demonstrate proficiency, and give employees credentials they can take with them.\"\n\nThat's particularly attractive for engineering, data, management-development and digital-transformation programs.\n\nWhere Udemy has the edge\n\nUdemy's Enterprise offering is extremely strong for breadth and practical, on-demand learning. Its current Enterprise catalog is 30,000+ courses, covering technology, business, leadership, AI, cybersecurity, programming, certifications and more. It also offers learning paths, assessments, skills mapping, analytics, integrations and AI-powered learning features. \nB\nbusiness.udemy.com\n+1\n\nThe sheer breadth can be valuable at 2,000 employees because you don't have to predict exactly what everyone will need to learn.\n\nFor example:\n\nFor a 2,000-person organization, Coursera's Enterprise tier is explicitly designed for organizations with 500+ users. It includes Skill Tracks, AI-assisted custom course creation, SSO/API integrations, dedicated customer success, skills analytics and proficiency tracking. \nC\ncoursera.org\n+1\n\nThe biggest differentiator is structured, credential-oriented learning. Coursera offers content from universities and companies, Professional Certificates, hands-on projects, assessments and Skills Tracks covering areas such as data, IT, software/product and GenAI. \nC\nCoursera\n+1\n\nDeveloper needs Kubernetes → Udemy\n\nFinance manager needs Power BI → Udemy\n\nSalesperson needs negotiation → Udemy\n\nEmployee wants to learn prompting → Udemy\n\nIT team needs AWS certification prep → Udemy\n\nManager needs a 45-minute leadership course → Udemy\n\nThat makes Udemy particularly compelling as an enterprise learning library employees actually dip into when they have an immediate need.\n\nUdemy also has substantial enterprise infrastructure: SSO, LMS/LXP integrations, APIs, Slack integration, advanced analytics and dedicated customer success are available on Enterprise. \nU\nUdemy Business\n\nThe important distinction\n\nI'd frame the decision this way:\n\nUdemy = \"Give 2,000 people access to a huge amount of practical learning.\"\n\nCoursera = \"Build measurable skill-development programs for 2,000 people.\"\n\nThat's a simplification, because both platforms now do both, but it's a useful way to think about the strategic difference.\n\nWhat I'd recommend for a 2,000-person company\n\nPick Coursera if:\n\nUdemy also has substantial enterprise infrastructure: SSO, LMS/LXP integrations, APIs, Slack integration, advanced analytics and dedicated customer success are available on Enterprise. \nU\nUdemy Business\n\nPick Udemy if:\n\nEmployee adoption and self-directed learning are the priority.\n\nYou need maximum topic breadth.\n\nYour workforce has highly varied learning needs.\n\nTechnical and practical skills dominate.\n\nYou want employees to find short, current courses quickly.\n\nYou want a particularly strong catalog for software development, cloud, cybersecurity and emerging technologies.\n\nFor your specific size, I'd lean Coursera — 60/40\n\nAt 2,000 employees, you're large enough that I'd prioritize the platform's skills architecture, structured programs, credentials and enterprise analytics rather than simply maximizing course volume.\n\nBut I wouldn't sign based on the catalog comparison alone. I'd run a 4-week pilot with 100–200 employees and measure:\n\nActivation rate\n\nMonthly active learners\n\nLearning hours per active learner\n\nCourse completion\n\nSkills/proficiency improvement\n\nManager satisfaction\n\nEmployee NPS/satisfaction\n\nCost per active learner\n\nSSO/HRIS/LMS integration effort\n\n90-day retention of newly learned skills\n\nOne particularly important point: don't compare Udemy's 30K+ courses against Coursera's 10K+ and conclude Udemy automatically wins. Coursera's value is much more concentrated in university/company-backed content, credentials, assessments and structured learning experiences. \nU\nUdemy Business\n+1\n\nFor a 2,000-person company, I'd also make both vendors demonstrate their actual enterprise pricing rather than extrapolating public team prices: Udemy Enterprise and Coursera Enterprise are both sales-priced at this scale.\n\nUdemy Business Enterprise plans · Coursera for Business Enterprise plans\n\nIf you tell me your industry, percentage of technical employees, countries/languages, and approximate L&D budget per employee, I can make this much more concrete—including a weighted 10-criterion scorecard and estimated 2,000-seat TCO.",
+  "bold": [
+    "2,000-employee company",
+    "Coursera for Business",
+    "Udemy Business",
+    "Udemy Business",
+    "Coursera for Business",
+    "Excellent",
+    "Excellent",
+    "Excellent",
+    "Excellent",
+    "Excellent",
+    "Excellent",
+    "Excellent",
+    "Excellent",
+    "Excellent",
+    "Excellent",
+    "Excellent",
+    "Excellent",
+    "Excellent",
+    "Excellent",
+    "Enterprise",
+    "structured, credential-oriented learning",
+    "breadth and practical, on-demand learning",
+    "Enterprise",
+    "structured, credential-oriented learning",
+    "enterprise learning library employees actually dip into when they have an immediate need",
+    "Udemy = \"Give 2,000 people access to a huge amount of practical learning.\"",
+    "Coursera = \"Build measurable skill-development programs for 2,000 people.\"",
+    "Pick Coursera if:",
+    "Pick Udemy if:",
+    "Coursera — 60/40",
+    "2,000 employees",
+    "skills architecture, structured programs, credentials and enterprise analytics",
+    "4-week pilot with 100–200 employees",
+    "90-day retention of newly learned skills",
+    "don't compare Udemy's 30K+ courses against Coursera's 10K+ and conclude Udemy automatically wins.",
+    "actual enterprise pricing",
+    "industry, percentage of technical employees, countries/languages, and approximate L&D budget per employee",
+    "weighted 10-criterion scorecard and estimated 2,000-seat TCO"
+  ],
+  "sources": [
+    {
+      "name": "Coursera",
+      "title": "Compare Plans and Pricing | Coursera for Business",
+      "url": "https://www.coursera.org/business/compare-plans"
+    },
+    {
+      "name": "Coursera",
+      "title": "Coursera | Online Courses, Certificates, & Degrees",
+      "url": "https://www.coursera.org/"
+    },
+    {
+      "name": "Coursera",
+      "title": "Skills Tracks - Employee Training Programs | Coursera for Business",
+      "url": "https://www.coursera.org/business/skill-tracks"
+    },
+    {
+      "name": "business.udemy.com",
+      "title": "Learning Plans for Businesses | Udemy Business",
+      "url": "https://business.udemy.com/en/plans/"
+    },
+    {
+      "name": "business.udemy.com",
+      "title": "HR L&D Enterprise Training - Udemy Business",
+      "url": "https://business.udemy.com/enterprise-training/"
+    }
+  ],
+  "screenshot": "chatgpt_q06.png"
+}

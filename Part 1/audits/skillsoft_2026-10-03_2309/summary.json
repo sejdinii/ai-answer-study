@@ -1,0 +1,447 @@
+{
+  "client": "Skillsoft",
+  "answers": 20,
+  "failed": 0,
+  "branded": 2,
+  "unbranded_answers": 18,
+  "unbranded_mentioned": 7,
+  "mentioned": 9,
+  "rate": 0.45,
+  "avg_rank": 2.6,
+  "featured": 9,
+  "cited": 4,
+  "share_of_voice": 0.1,
+  "platforms": {
+    "chatgpt": {
+      "answers": 10,
+      "mentioned": 5,
+      "rate": 0.5,
+      "avg_rank": 2.8,
+      "cited": 4,
+      "failed": 0
+    },
+    "gemini": {
+      "answers": 10,
+      "mentioned": 4,
+      "rate": 0.4,
+      "avg_rank": 2.2,
+      "cited": 0,
+      "failed": 0
+    }
+  },
+  "leaderboard": [
+    {
+      "name": "Coursera for Business",
+      "answers": 10,
+      "is_client": false,
+      "avg_rank": 2.4
+    },
+    {
+      "name": "Udemy Business",
+      "answers": 10,
+      "is_client": false,
+      "avg_rank": 3.2
+    },
+    {
+      "name": "Skillsoft",
+      "answers": 9,
+      "is_client": true,
+      "avg_rank": 2.6
+    },
+    {
+      "name": "LinkedIn Learning",
+      "answers": 8,
+      "is_client": false,
+      "avg_rank": 1.6
+    },
+    {
+      "name": "Pluralsight",
+      "answers": 6,
+      "is_client": false,
+      "avg_rank": 4.8
+    },
+    {
+      "name": "Docebo",
+      "answers": 5,
+      "is_client": false,
+      "avg_rank": 3
+    },
+    {
+      "name": "360Learning",
+      "answers": 5,
+      "is_client": false,
+      "avg_rank": 4.8
+    },
+    {
+      "name": "Cornerstone",
+      "answers": 4,
+      "is_client": false,
+      "avg_rank": 4
+    },
+    {
+      "name": "Go1",
+      "answers": 3,
+      "is_client": false,
+      "avg_rank": 4.3
+    },
+    {
+      "name": "Harvard ManageMentor",
+      "answers": 3,
+      "is_client": false,
+      "avg_rank": 5
+    },
+    {
+      "name": "BetterUp",
+      "answers": 2,
+      "is_client": false,
+      "avg_rank": 3
+    },
+    {
+      "name": "SAP Litmos",
+      "answers": 2,
+      "is_client": false,
+      "avg_rank": 4.5
+    },
+    {
+      "name": "SAI360",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 1
+    },
+    {
+      "name": "TechClass",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 1
+    },
+    {
+      "name": "CoachHub",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 1
+    },
+    {
+      "name": "NAVEX",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 2
+    },
+    {
+      "name": "Sana Learn",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 2
+    },
+    {
+      "name": "TalentLMS",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 2
+    },
+    {
+      "name": "VirtualSpeech",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 2
+    },
+    {
+      "name": "GoodHabitz",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 3
+    },
+    {
+      "name": "Degreed",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 3
+    },
+    {
+      "name": "Mursion",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 3
+    },
+    {
+      "name": "Coachello",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 3
+    },
+    {
+      "name": "MasterClass at Work",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 3
+    },
+    {
+      "name": "O'Reilly for Business",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 4
+    },
+    {
+      "name": "CrossKnowledge",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 4
+    },
+    {
+      "name": "Traliant",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 4
+    },
+    {
+      "name": "Cai",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 4
+    },
+    {
+      "name": "LearnUpon",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 5
+    },
+    {
+      "name": "Skillcast",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 5
+    },
+    {
+      "name": "OpenSesame",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 6
+    },
+    {
+      "name": "EasyLlama",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 6
+    },
+    {
+      "name": "D2L Brightspace",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 7
+    },
+    {
+      "name": "Workday",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 7
+    },
+    {
+      "name": "Exec",
+      "answers": 1,
+      "is_client": false,
+      "avg_rank": 7
+    }
+  ],
+  "top_sources": [
+    {
+      "domain": "coursera.org",
+      "answers": 4,
+      "type": "competitor",
+      "platforms": [
+        "chatgpt",
+        "gemini"
+      ]
+    },
+    {
+      "domain": "business.udemy.com",
+      "answers": 4,
+      "type": "competitor",
+      "platforms": [
+        "chatgpt"
+      ]
+    },
+    {
+      "domain": "docebo.com",
+      "answers": 3,
+      "type": "competitor",
+      "platforms": [
+        "chatgpt",
+        "gemini"
+      ]
+    },
+    {
+      "domain": "360learning.com",
+      "answers": 3,
+      "type": "competitor",
+      "platforms": [
+        "chatgpt",
+        "gemini"
+      ]
+    },
+    {
+      "domain": "linkedin.com",
+      "answers": 3,
+      "type": "competitor",
+      "platforms": [
+        "chatgpt"
+      ]
+    },
+    {
+      "domain": "d2l.com",
+      "answers": 2,
+      "type": "other",
+      "platforms": [
+        "chatgpt",
+        "gemini"
+      ]
+    },
+    {
+      "domain": "business.linkedin.com",
+      "answers": 2,
+      "type": "community",
+      "platforms": [
+        "chatgpt"
+      ]
+    },
+    {
+      "domain": "investor.skillsoft.com",
+      "answers": 2,
+      "type": "client",
+      "platforms": [
+        "chatgpt"
+      ]
+    },
+    {
+      "domain": "business-support.udemy.com",
+      "answers": 2,
+      "type": "competitor",
+      "platforms": [
+        "chatgpt"
+      ]
+    },
+    {
+      "domain": "g2.com",
+      "answers": 2,
+      "type": "review site",
+      "platforms": [
+        "chatgpt",
+        "gemini"
+      ]
+    },
+    {
+      "domain": "gartner.com",
+      "answers": 2,
+      "type": "review site",
+      "platforms": [
+        "gemini"
+      ]
+    },
+    {
+      "domain": "learnupon.com",
+      "answers": 1,
+      "type": "competitor",
+      "platforms": [
+        "chatgpt"
+      ]
+    },
+    {
+      "domain": "skillsoft.com",
+      "answers": 1,
+      "type": "client",
+      "platforms": [
+        "chatgpt"
+      ]
+    },
+    {
+      "domain": "goodhabitz.com",
+      "answers": 1,
+      "type": "competitor",
+      "platforms": [
+        "chatgpt"
+      ]
+    },
+    {
+      "domain": "documentation.skillsoft.com",
+      "answers": 1,
+      "type": "client",
+      "platforms": [
+        "chatgpt"
+      ]
+    },
+    {
+      "domain": "udemy.com",
+      "answers": 1,
+      "type": "competitor",
+      "platforms": [
+        "chatgpt"
+      ]
+    },
+    {
+      "domain": "sai360.com",
+      "answers": 1,
+      "type": "competitor",
+      "platforms": [
+        "chatgpt"
+      ]
+    },
+    {
+      "domain": "lrn.com",
+      "answers": 1,
+      "type": "other",
+      "platforms": [
+        "chatgpt"
+      ]
+    },
+    {
+      "domain": "navex.com",
+      "answers": 1,
+      "type": "competitor",
+      "platforms": [
+        "chatgpt"
+      ]
+    },
+    {
+      "domain": "mordorintelligence.com",
+      "answers": 1,
+      "type": "other",
+      "platforms": [
+        "chatgpt"
+      ]
+    }
+  ],
+  "brands_detected": [
+    "360Learning",
+    "BetterUp",
+    "Cai",
+    "CoachHub",
+    "Coachello",
+    "Cornerstone",
+    "Coursera for Business",
+    "CrossKnowledge",
+    "Degreed",
+    "Docebo",
+    "EasyLlama",
+    "Exec",
+    "Go1",
+    "GoodHabitz",
+    "LearnUpon",
+    "Mursion",
+    "NAVEX",
+    "O'Reilly for Business",
+    "OpenSesame",
+    "Pluralsight",
+    "SAI360",
+    "Skillcast",
+    "TalentLMS",
+    "TechClass",
+    "Traliant",
+    "Udemy Business",
+    "VirtualSpeech",
+    "Workday",
+    "D2L Brightspace",
+    "Harvard ManageMentor",
+    "LinkedIn Learning",
+    "SAP Litmos",
+    "Sana Learn",
+    "MasterClass at Work"
+  ]
+}

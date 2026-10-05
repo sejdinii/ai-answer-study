@@ -1,0 +1,19 @@
+{
+  "platform": "gemini",
+  "question_id": 8,
+  "question": "How can I upskill managers across my company without building courses in-house?",
+  "collected_at": "2026-10-03T23:52:39",
+  "status": "ok",
+  "text": "Upskilling managers without building courses in-house is a great strategy to save time and leverage proven industry expertise. You can curate ready-made solutions, partner with external providers, and leverage experiential learning.\n\nHere are the most effective ways to do this:\n\n1. Leverage External Learning Platforms\n\nCohort-Based Platforms: Utilize platforms like Coursera for Business, LinkedIn Learning, or Udemy Business, which offer pre-built learning paths specifically designed for leadership and management development.\n\nSpecialized Leadership Academies: Partner with external organizations (such as Manager Tools, Harvard Business Publishing, or boutique leadership firms) that provide plug-and-play training programs and certifications.\n\n2. Implement Peer Learning and Coaching\n\nAction Learning Sets: Form small groups of managers who meet regularly to discuss real-time challenges they are facing, brainstorm solutions, and hold each other accountable.\n\nExternal Executive Coaching: Invest in fractional or group coaching services for your managers. Providers like BetterUp or Torch match managers with certified coaches for personalized guidance.\n\n3. Curate Book Clubs and Podcast Cohorts\n\nLeadership Book Clubs: Select a foundational management book per quarter, provide copies to your managers, and host monthly discussion sessions to apply the concepts to your company culture.\n\nCurated Audio Learning: Create a shared playlist of episodes from podcasts like HBR IdeaCast or The Manager's Handbook and dedicate time during team meetings to discuss takeaways.\n\nTip: Start by identifying one core management competency your team lacks (e.g., giving feedback or delegation) and pilot a single external resource or cohort before rolling out a broader program.\n\nWhat specific management skills or areas are you hoping your managers will focus on first?",
+  "bold": [
+    "Cohort-Based Platforms:",
+    "Specialized Leadership Academies:",
+    "Action Learning Sets:",
+    "External Executive Coaching:",
+    "Leadership Book Clubs:",
+    "Curated Audio Learning:",
+    "Tip:"
+  ],
+  "sources": [],
+  "screenshot": "gemini_q08.png"
+}
